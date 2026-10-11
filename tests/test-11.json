@@ -1,0 +1,667 @@
+{
+  "id": 11,
+  "title": "Roluri și atribuții",
+  "durationSeconds": 3600,
+  "questions": [
+    {
+      "category": "bush",
+      "prompt": "Cum s-a schimbat terminologia domeniului potrivit lui Gunter?",
+      "options": [
+        "de la administrație la management și apoi la leadership.",
+        "de la autonomie la finanțare și apoi la inspecție.",
+        "de la leadership la birocrație și apoi la control.",
+        "de la management la predare și apoi la evaluare."
+      ],
+      "correct": 0,
+      "model": "Ce este leadershipul educațional",
+      "source": "Tony Bush, capitolul 1, secțiunea „Ce este leadershipul educațional”, p. 17",
+      "sourceUrl": "https://ccecp.github.io/Bush_1/",
+      "legalText": "",
+      "solution": {
+        "steps": [
+          "Întrebarea se referă la „Ce este leadershipul educațional”. Răspunsul se sprijină pe ideea „de la administrație la management și apoi la leadership” din capitolul I (p. 17). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului.",
+          "Reperul cerut este: de la administrație la management și apoi la leadership.",
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+        ],
+        "rule": "de la administrație la management și apoi la leadership.",
+        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "alternative": "Legătura de reținut: Cum s-a schimbat terminologia domeniului potrivit lui Gunter? → de la administrație la management și apoi la leadership."
+      },
+      "feedback": [
+        "Această variantă corespunde reperului din sursă: de la administrație la management și apoi la leadership.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: de la administrație la management și apoi la leadership.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: de la administrație la management și apoi la leadership.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: de la administrație la management și apoi la leadership."
+      ],
+      "id": "t11-q1"
+    },
+    {
+      "category": "rofuip",
+      "prompt": "Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 20, alin. (17): „Pentru învățământul particular și confesional, ________ este numit de conducerea persoanei juridice fondatoare, iar actul de numire se comunică/ se aduce la cunoștința inspectoratului școlar/ ISMB, pe raza căruia își desfășoară activitatea unitatea de învățământ respectivă”.",
+      "options": [
+        "Directorul adjunct.",
+        "Directorul unității de învățământ.",
+        "Profesorul diriginte.",
+        "Secretarul unității de învățământ."
+      ],
+      "correct": 1,
+      "model": "Competențe instituționale",
+      "source": "ROFUIP, OME nr. 5726/2024, art. 20, alin. (17)",
+      "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
+      "legalText": "Pentru învățământul particular și confesional, directorul unității de învățământ este numit de conducerea persoanei juridice fondatoare, iar actul de numire se comunică/ se aduce la cunoștința inspectoratului școlar/ ISMB, pe raza căruia își desfășoară activitatea unitatea de învățământ respectivă.",
+      "solution": {
+        "steps": [
+          "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „directorul unității de învățământ”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
+          "Reperul cerut este: Directorul unității de învățământ.",
+          "Înlocuiește spațiul cu fiecare variantă: numai „directorul unității de învățământ” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+        ],
+        "rule": "Directorul unității de învățământ.",
+        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "alternative": "Legătura de reținut: Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 20, alin. (17): „Pentru învățământul particular și confesional, ________ este numit de conducerea persoanei juridice fondatoare, iar actul de numire se comunică/ se aduce la cunoștința inspectoratului școlar/ ISMB, pe raza căruia își desfășoară activitatea unitatea de învățământ respectivă”. → Directorul unității de învățământ."
+      },
+      "feedback": [
+        "Prevederea atribuie acest rol lui „directorul unității de învățământ”. Varianta „Directorul adjunct” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „directorul unității de învățământ”. Varianta păstrează regula.",
+        "Prevederea atribuie acest rol lui „directorul unității de învățământ”. Varianta „Profesorul diriginte” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „directorul unității de învățământ”. Varianta „Secretarul unității de învățământ” schimbă reperul prevăzut în fragment."
+      ],
+      "article": "20",
+      "paragraph": "17",
+      "id": "t11-q2"
+    },
+    {
+      "category": "lege",
+      "prompt": "Completați prevederea din Legea nr. 198/2023, art. 109, alin. (2): „Consiliul Național al Elevilor funcționează după un regulament de organizare și funcționare aprobat prin ordin al ________”.",
+      "options": [
+        "Directorului unității de învățământ.",
+        "Ministrului educației.",
+        "Președintelui consiliului județean.",
+        "Primarului."
+      ],
+      "correct": 1,
+      "model": "Competențe instituționale",
+      "source": "Legea nr. 198/2023, art. 109, alin. (2)",
+      "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
+      "legalText": "Consiliul Național al Elevilor funcționează după un regulament de organizare și funcționare aprobat prin ordin al ministrului educației.",
+      "solution": {
+        "steps": [
+          "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „ministrului educației”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
+          "Reperul cerut este: Ministrului educației.",
+          "Înlocuiește spațiul cu fiecare variantă: numai „ministrului educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+        ],
+        "rule": "Ministrului educației.",
+        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "alternative": "Legătura de reținut: Completați prevederea din Legea nr. 198/2023, art. 109, alin. (2): „Consiliul Național al Elevilor funcționează după un regulament de organizare și funcționare aprobat prin ordin al ________”. → Ministrului educației."
+      },
+      "feedback": [
+        "Prevederea atribuie acest rol lui „ministrului educației”. Varianta „Directorului unității de învățământ” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „ministrului educației”. Varianta păstrează regula.",
+        "Prevederea atribuie acest rol lui „ministrului educației”. Varianta „Președintelui consiliului județean” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „ministrului educației”. Varianta „Primarului” schimbă reperul prevăzut în fragment."
+      ],
+      "article": "109",
+      "paragraph": "2",
+      "id": "t11-q3"
+    },
+    {
+      "category": "bush",
+      "prompt": "Ce aspect accentuează definiția managementului formulată de Sapre?",
+      "options": [
+        "articularea unei viziuni comune pentru școală.",
+        "formularea politicilor educaționale aprobate.",
+        "influențarea intenționată a membrilor organizației.",
+        "utilizarea eficientă și eficace a resurselor."
+      ],
+      "correct": 3,
+      "model": "Ce este managementul educațional",
+      "source": "Tony Bush, capitolul 1, secțiunea „Ce este managementul educațional”, p. 13",
+      "sourceUrl": "https://ccecp.github.io/Bush_1/",
+      "legalText": "",
+      "solution": {
+        "steps": [
+          "Întrebarea se referă la „Ce este managementul educațional”. Răspunsul se sprijină pe ideea „utilizarea eficientă și eficace a resurselor” din capitolul I (p. 13). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului.",
+          "Reperul cerut este: utilizarea eficientă și eficace a resurselor.",
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+        ],
+        "rule": "utilizarea eficientă și eficace a resurselor.",
+        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "alternative": "Legătura de reținut: Ce aspect accentuează definiția managementului formulată de Sapre? → utilizarea eficientă și eficace a resurselor."
+      },
+      "feedback": [
+        "Această variantă nu completează relația cerută. Reperul din sursă este: utilizarea eficientă și eficace a resurselor.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: utilizarea eficientă și eficace a resurselor.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: utilizarea eficientă și eficace a resurselor.",
+        "Această variantă corespunde reperului din sursă: utilizarea eficientă și eficace a resurselor."
+      ],
+      "id": "t11-q4"
+    },
+    {
+      "category": "hattie",
+      "prompt": "În clasificarea lui Wade, ce desemnează nivelul „comportament”?",
+      "options": [
+        "Impresia profesorului despre organizarea cursului.",
+        "Rezultatul elevului la evaluarea finală.",
+        "Schimbarea conduitei profesorului ca urmare a formării.",
+        "Volumul informațiilor prezentate la formare."
+      ],
+      "correct": 2,
+      "model": "Profesorul și impactul asupra învățării",
+      "source": "John Hattie, Învățarea vizibilă, cap. 9, p. 244",
+      "sourceUrl": "https://concursdirectori.ro/hattie-invatarea-vizibila-capitolul-9-profesorul/",
+      "legalText": "",
+      "solution": {
+        "steps": [
+          "Reacția, învățarea, comportamentul și rezultatele elevilor sunt niveluri distincte. Comportamentul privește transferul formării în acțiunea profesorului.",
+          "Reperul cerut este: Schimbarea conduitei profesorului ca urmare a formării.",
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+        ],
+        "rule": "Schimbarea conduitei profesorului ca urmare a formării.",
+        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "alternative": "Legătura de reținut: În clasificarea lui Wade, ce desemnează nivelul „comportament”? → Schimbarea conduitei profesorului ca urmare a formării."
+      },
+      "feedback": [
+        "Această variantă nu completează relația cerută. Reperul din sursă este: Schimbarea conduitei profesorului ca urmare a formării.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: Schimbarea conduitei profesorului ca urmare a formării.",
+        "Această variantă corespunde reperului din sursă: Schimbarea conduitei profesorului ca urmare a formării.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: Schimbarea conduitei profesorului ca urmare a formării."
+      ],
+      "id": "t11-q5"
+    },
+    {
+      "category": "curriculum",
+      "prompt": "Ce document stabilește succesiunea unităților de învățare și bugetul lor de timp pe parcursul anului?",
+      "options": [
+        "Fișa de inventar.",
+        "Planificarea calendaristică.",
+        "Raportul financiar.",
+        "Regulamentul intern."
+      ],
+      "correct": 1,
+      "model": "Proiectare și aplicare curriculară",
+      "source": "Cadrul de Referință al Curriculumului Național, cap. 10, OMEC nr. 4137/2026",
+      "sourceUrl": "https://concursdirectori.ro/curriculum-capitolul-10/",
+      "legalText": "",
+      "solution": {
+        "steps": [
+          "Planificarea calendaristică asociază unități de învățare, competențe, conținuturi și timp. Proiectul unei lecții detaliază o activitate, nu distribuția anuală.",
+          "Reperul cerut este: Planificarea calendaristică.",
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+        ],
+        "rule": "Planificarea calendaristică.",
+        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "alternative": "Legătura de reținut: Ce document stabilește succesiunea unităților de învățare și bugetul lor de timp pe parcursul anului? → Planificarea calendaristică."
+      },
+      "feedback": [
+        "Această variantă nu completează relația cerută. Reperul din sursă este: Planificarea calendaristică.",
+        "Această variantă corespunde reperului din sursă: Planificarea calendaristică.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: Planificarea calendaristică.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: Planificarea calendaristică."
+      ],
+      "id": "t11-q6"
+    },
+    {
+      "category": "lege",
+      "prompt": "Completați prevederea din Legea nr. 198/2023, art. 148, alin. (1): „fapta de nealocare a burselor săvârșită de ________, cu nerespectarea prevederilor art. 108, se sancționează cu amendă de la 1.000 de lei la 5.000 de lei, sau cu prestarea unei activități în folosul comunității”.",
+      "options": [
+        "Directorul adjunct.",
+        "Directorul unității de învățământ.",
+        "Profesorul diriginte.",
+        "Secretarul unității de învățământ."
+      ],
+      "correct": 1,
+      "model": "Competențe instituționale",
+      "source": "Legea nr. 198/2023, art. 148, alin. (1)",
+      "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
+      "legalText": "fapta de nealocare a burselor săvârșită de directorul unității de învățământ, cu nerespectarea prevederilor art. 108, se sancționează cu amendă de la 1.000 de lei la 5.000 de lei, sau cu prestarea unei activități în folosul comunității.",
+      "solution": {
+        "steps": [
+          "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „directorul unității de învățământ”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
+          "Reperul cerut este: Directorul unității de învățământ.",
+          "Înlocuiește spațiul cu fiecare variantă: numai „directorul unității de învățământ” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+        ],
+        "rule": "Directorul unității de învățământ.",
+        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "alternative": "Legătura de reținut: Completați prevederea din Legea nr. 198/2023, art. 148, alin. (1): „fapta de nealocare a burselor săvârșită de ________, cu nerespectarea prevederilor art. 108, se sancționează cu amendă de la 1.000 de lei la 5.000 de lei, sau cu prestarea unei activități în folosul comunității”. → Directorul unității de învățământ."
+      },
+      "feedback": [
+        "Prevederea atribuie acest rol lui „directorul unității de învățământ”. Varianta „Directorul adjunct” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „directorul unității de învățământ”. Varianta păstrează regula.",
+        "Prevederea atribuie acest rol lui „directorul unității de învățământ”. Varianta „Profesorul diriginte” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „directorul unității de învățământ”. Varianta „Secretarul unității de învățământ” schimbă reperul prevăzut în fragment."
+      ],
+      "article": "148",
+      "paragraph": "1",
+      "id": "t11-q7"
+    },
+    {
+      "category": "hattie",
+      "prompt": "Cum ar trebui raportată evaluarea dezvoltării profesionale la activitatea școlii?",
+      "options": [
+        "Exclusiv la numărul materialelor distribuite.",
+        "La schimbările practicii și la efectele asupra elevilor.",
+        "Numai la durata înscrisă pe certificat.",
+        "Numai la satisfacția declarată de participanți."
+      ],
+      "correct": 1,
+      "model": "Profesorul și impactul asupra învățării",
+      "source": "John Hattie, Învățarea vizibilă, cap. 9, p. 244–245",
+      "sourceUrl": "https://concursdirectori.ro/hattie-invatarea-vizibila-capitolul-9-profesorul/",
+      "legalText": "",
+      "solution": {
+        "steps": [
+          "Satisfacția este un rezultat posibil, dar nu dovedește schimbarea practicii. Evaluarea trebuie să urmărească și aplicarea în clasă, apoi efectele asupra elevilor.",
+          "Reperul cerut este: La schimbările practicii și la efectele asupra elevilor.",
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+        ],
+        "rule": "La schimbările practicii și la efectele asupra elevilor.",
+        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "alternative": "Legătura de reținut: Cum ar trebui raportată evaluarea dezvoltării profesionale la activitatea școlii? → La schimbările practicii și la efectele asupra elevilor."
+      },
+      "feedback": [
+        "Această variantă nu completează relația cerută. Reperul din sursă este: La schimbările practicii și la efectele asupra elevilor.",
+        "Această variantă corespunde reperului din sursă: La schimbările practicii și la efectele asupra elevilor.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: La schimbările practicii și la efectele asupra elevilor.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: La schimbările practicii și la efectele asupra elevilor."
+      ],
+      "id": "t11-q8"
+    },
+    {
+      "category": "rofuip",
+      "prompt": "Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 39, alin. (6): „Personalului didactic de predare din învățământul preuniversitar îi este interzis să desfășoare activități de pregătire suplimentară/meditații contracost cu beneficiarii primari de la clasa/clasele la care este încadrat în anul școlar în curs, conform procedurii pentru completarea declarațiilor de interese de către personalul didactic de predare, aprobată prin ordin al ________”.",
+      "options": [
+        "Directorului unității de învățământ.",
+        "Ministrului educației.",
+        "Președintelui consiliului județean.",
+        "Primarului."
+      ],
+      "correct": 1,
+      "model": "Competențe instituționale",
+      "source": "ROFUIP, OME nr. 5726/2024, art. 39, alin. (6)",
+      "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
+      "legalText": "Personalului didactic de predare din învățământul preuniversitar îi este interzis să desfășoare activități de pregătire suplimentară/meditații contracost cu beneficiarii primari de la clasa/clasele la care este încadrat în anul școlar în curs, conform procedurii pentru completarea declarațiilor de interese de către personalul didactic de predare, aprobată prin ordin al ministrului educației.",
+      "solution": {
+        "steps": [
+          "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „ministrului educației”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
+          "Reperul cerut este: Ministrului educației.",
+          "Înlocuiește spațiul cu fiecare variantă: numai „ministrului educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+        ],
+        "rule": "Ministrului educației.",
+        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "alternative": "Legătura de reținut: Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 39, alin. (6): „Personalului didactic de predare din învățământul preuniversitar îi este interzis să desfășoare activități de pregătire suplimentară/meditații contracost cu beneficiarii primari de la clasa/clasele la care este încadrat în anul școlar în curs, conform procedurii pentru completarea declarațiilor de interese de către personalul didactic de predare, aprobată prin ordin al ________”. → Ministrului educației."
+      },
+      "feedback": [
+        "Prevederea atribuie acest rol lui „ministrului educației”. Varianta „Directorului unității de învățământ” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „ministrului educației”. Varianta păstrează regula.",
+        "Prevederea atribuie acest rol lui „ministrului educației”. Varianta „Președintelui consiliului județean” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „ministrului educației”. Varianta „Primarului” schimbă reperul prevăzut în fragment."
+      ],
+      "article": "39",
+      "paragraph": "6",
+      "id": "t11-q9"
+    },
+    {
+      "category": "lege",
+      "prompt": "Completați prevederea din Legea nr. 198/2023, art. 40, alin. (4): „________ liceal militar asigură conducerea, îndrumarea și controlul activităților specifice procesului educațional”.",
+      "options": [
+        "Directorul adjunct.",
+        "Directorul unității de învățământ.",
+        "Profesorul diriginte.",
+        "Secretarul unității de învățământ."
+      ],
+      "correct": 1,
+      "model": "Competențe instituționale",
+      "source": "Legea nr. 198/2023, art. 40, alin. (4)",
+      "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
+      "legalText": "Directorul unității de învățământ liceal militar asigură conducerea, îndrumarea și controlul activităților specifice procesului educațional.",
+      "solution": {
+        "steps": [
+          "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „Directorul unității de învățământ”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
+          "Reperul cerut este: Directorul unității de învățământ.",
+          "Înlocuiește spațiul cu fiecare variantă: numai „Directorul unității de învățământ” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+        ],
+        "rule": "Directorul unității de învățământ.",
+        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "alternative": "Legătura de reținut: Completați prevederea din Legea nr. 198/2023, art. 40, alin. (4): „________ liceal militar asigură conducerea, îndrumarea și controlul activităților specifice procesului educațional”. → Directorul unității de învățământ."
+      },
+      "feedback": [
+        "Prevederea atribuie acest rol lui „Directorul unității de învățământ”. Varianta „Directorul adjunct” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „Directorul unității de învățământ”. Varianta păstrează regula.",
+        "Prevederea atribuie acest rol lui „Directorul unității de învățământ”. Varianta „Profesorul diriginte” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „Directorul unității de învățământ”. Varianta „Secretarul unității de învățământ” schimbă reperul prevăzut în fragment."
+      ],
+      "article": "40",
+      "paragraph": "4",
+      "id": "t11-q10"
+    },
+    {
+      "category": "lege",
+      "prompt": "Completați prevederea din Legea nr. 198/2023, art. 149, alin. (2): „De asemenea, ________ participă la monitorizarea, evaluarea și verificarea, direct sau prin organismele abilitate, a funcționării sistemului de învățare pe tot parcursul vieții, pe domeniul de competență”.",
+      "options": [
+        "Consiliul de administrație.",
+        "Guvernul.",
+        "Inspectoratul școlar.",
+        "Ministerul Educației."
+      ],
+      "correct": 3,
+      "model": "Competențe instituționale",
+      "source": "Legea nr. 198/2023, art. 149, alin. (2)",
+      "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
+      "legalText": "De asemenea, Ministerul Educației participă la monitorizarea, evaluarea și verificarea, direct sau prin organismele abilitate, a funcționării sistemului de învățare pe tot parcursul vieții, pe domeniul de competență.",
+      "solution": {
+        "steps": [
+          "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „Ministerul Educației”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
+          "Reperul cerut este: Ministerul Educației.",
+          "Înlocuiește spațiul cu fiecare variantă: numai „Ministerul Educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+        ],
+        "rule": "Ministerul Educației.",
+        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "alternative": "Legătura de reținut: Completați prevederea din Legea nr. 198/2023, art. 149, alin. (2): „De asemenea, ________ participă la monitorizarea, evaluarea și verificarea, direct sau prin organismele abilitate, a funcționării sistemului de învățare pe tot parcursul vieții, pe domeniul de competență”. → Ministerul Educației."
+      },
+      "feedback": [
+        "Prevederea atribuie acest rol lui „Ministerul Educației”. Varianta „Consiliul de administrație” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „Ministerul Educației”. Varianta „Guvernul” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „Ministerul Educației”. Varianta „Inspectoratul școlar” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „Ministerul Educației”. Varianta păstrează regula."
+      ],
+      "article": "149",
+      "paragraph": "2",
+      "id": "t11-q11"
+    },
+    {
+      "category": "bush",
+      "prompt": "Ce poate rămâne școlii de făcut când imperativele externe sunt foarte prescriptive?",
+      "options": [
+        "eliminarea tuturor cerințelor curriculare naționale.",
+        "impunerea politicilor proprii la nivelul guvernului.",
+        "interpretarea cerințelor externe în contextul propriu.",
+        "renunțarea la orice analiză a nevoilor elevilor."
+      ],
+      "correct": 2,
+      "model": "Stabilirea obiectivelor",
+      "source": "Tony Bush, capitolul 1, secțiunea „Stabilirea obiectivelor”, p. 16",
+      "sourceUrl": "https://ccecp.github.io/Bush_1/",
+      "legalText": "",
+      "solution": {
+        "steps": [
+          "Întrebarea se referă la „Stabilirea obiectivelor”. Răspunsul se sprijină pe ideea „interpretarea cerințelor externe în contextul propriu” din capitolul I (p. 16). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului.",
+          "Reperul cerut este: interpretarea cerințelor externe în contextul propriu.",
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+        ],
+        "rule": "interpretarea cerințelor externe în contextul propriu.",
+        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "alternative": "Legătura de reținut: Ce poate rămâne școlii de făcut când imperativele externe sunt foarte prescriptive? → interpretarea cerințelor externe în contextul propriu."
+      },
+      "feedback": [
+        "Această variantă nu completează relația cerută. Reperul din sursă este: interpretarea cerințelor externe în contextul propriu.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: interpretarea cerințelor externe în contextul propriu.",
+        "Această variantă corespunde reperului din sursă: interpretarea cerințelor externe în contextul propriu.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: interpretarea cerințelor externe în contextul propriu."
+      ],
+      "id": "t11-q12"
+    },
+    {
+      "category": "bush",
+      "prompt": "Cu ce este asociat Taylor în perspectiva cronologică prezentată?",
+      "options": [
+        "mișcarea pentru management științific.",
+        "principiile generale ale managementului.",
+        "programul național de calificare.",
+        "studiile despre birocrație."
+      ],
+      "correct": 0,
+      "model": "Perspectivă cronologică asupra leadershipului",
+      "source": "Tony Bush, capitolul 1, secțiunea „Perspectivă cronologică asupra leadershipului”, p. 22",
+      "sourceUrl": "https://ccecp.github.io/Bush_1/",
+      "legalText": "",
+      "solution": {
+        "steps": [
+          "Întrebarea se referă la „Perspectivă cronologică asupra leadershipului”. Răspunsul se sprijină pe ideea „mișcarea pentru management științific” din capitolul I (p. 22). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului.",
+          "Reperul cerut este: mișcarea pentru management științific.",
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+        ],
+        "rule": "mișcarea pentru management științific.",
+        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "alternative": "Legătura de reținut: Cu ce este asociat Taylor în perspectiva cronologică prezentată? → mișcarea pentru management științific."
+      },
+      "feedback": [
+        "Această variantă corespunde reperului din sursă: mișcarea pentru management științific.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: mișcarea pentru management științific.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: mișcarea pentru management științific.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: mișcarea pentru management științific."
+      ],
+      "id": "t11-q13"
+    },
+    {
+      "category": "profil",
+      "prompt": "Sintagmele asimilate sunt:",
+      "options": [
+        "director și lider organizațional.",
+        "lider pedagogic și director.",
+        "manager educațional și lider strategic.",
+        "manager școlar și director de unitate de învățământ preuniversitar."
+      ],
+      "correct": 3,
+      "model": "Context, valori fundamentale și competențe transversale",
+      "source": "Profilul profesional al managerului școlar, OMEC nr. 3934/2026; Context, valori fundamentale și competențe transversale",
+      "sourceUrl": "https://www.isj.tm.edu.ro/public/data_files/specializari/fisier-7876.pdf",
+      "legalText": "",
+      "solution": {
+        "steps": [
+          "Profilul descrie competențe demonstrate prin comportamente profesionale. Pentru această cerință, reperul este „manager școlar și director de unitate de învățământ preuniversitar”. Identifică mai întâi acțiunea cerută și domeniul ei; nu o confunda cu o activitate apropiată din alt domeniu.",
+          "Reperul cerut este: manager școlar și director de unitate de învățământ preuniversitar.",
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+        ],
+        "rule": "manager școlar și director de unitate de învățământ preuniversitar.",
+        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "alternative": "Legătura de reținut: Sintagmele asimilate sunt: → manager școlar și director de unitate de învățământ preuniversitar."
+      },
+      "feedback": [
+        "Această variantă nu completează relația cerută. Reperul din sursă este: manager școlar și director de unitate de învățământ preuniversitar.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: manager școlar și director de unitate de învățământ preuniversitar.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: manager școlar și director de unitate de învățământ preuniversitar.",
+        "Această variantă corespunde reperului din sursă: manager școlar și director de unitate de învățământ preuniversitar."
+      ],
+      "id": "t11-q14"
+    },
+    {
+      "category": "curriculum",
+      "prompt": "În proiectarea unei unități de învățare, care asociere trebuie realizată explicit?",
+      "options": [
+        "Asocierea competențelor specifice cu conținuturile detaliate.",
+        "Asocierea disciplinelor cu furnizorii de echipamente.",
+        "Asocierea elevilor cu ordine alfabetice definitive.",
+        "Asocierea notelor cu funcțiile administrative."
+      ],
+      "correct": 0,
+      "model": "Proiectare și aplicare curriculară",
+      "source": "Cadrul de Referință al Curriculumului Național, cap. 10, OMEC nr. 4137/2026",
+      "sourceUrl": "https://concursdirectori.ro/curriculum-capitolul-10/",
+      "legalText": "",
+      "solution": {
+        "steps": [
+          "Conținuturile sunt selectate pentru dezvoltarea competențelor. Asocierea nu este pur formală: ea ghidează activitățile, resursele și evaluarea.",
+          "Reperul cerut este: Asocierea competențelor specifice cu conținuturile detaliate.",
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+        ],
+        "rule": "Asocierea competențelor specifice cu conținuturile detaliate.",
+        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "alternative": "Legătura de reținut: În proiectarea unei unități de învățare, care asociere trebuie realizată explicit? → Asocierea competențelor specifice cu conținuturile detaliate."
+      },
+      "feedback": [
+        "Această variantă corespunde reperului din sursă: Asocierea competențelor specifice cu conținuturile detaliate.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: Asocierea competențelor specifice cu conținuturile detaliate.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: Asocierea competențelor specifice cu conținuturile detaliate.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: Asocierea competențelor specifice cu conținuturile detaliate."
+      ],
+      "id": "t11-q15"
+    },
+    {
+      "category": "rofuip",
+      "prompt": "Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 8: „Înscrierea se face în urma unei solicitări scrise din partea părintelui, a tutorelui sau a reprezentantului legal și se aprobă de către ________ al unității de învățământ la care se solicită înscrierea, în limita planului de școlarizare aprobat, după asigurarea școlarizării beneficiarilor primari din circumscripția școlară a unității de învățământ respective”.",
+      "options": [
+        "Consiliul de administrație.",
+        "Consiliul profesoral.",
+        "Consiliul reprezentativ al părinților.",
+        "Consiliul școlar al elevilor."
+      ],
+      "correct": 0,
+      "model": "Competențe instituționale",
+      "source": "ROFUIP, OME nr. 5726/2024, art. 8",
+      "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
+      "legalText": "Înscrierea se face în urma unei solicitări scrise din partea părintelui, a tutorelui sau a reprezentantului legal și se aprobă de către consiliul de administrație al unității de învățământ la care se solicită înscrierea, în limita planului de școlarizare aprobat, după asigurarea școlarizării beneficiarilor primari din circumscripția școlară a unității de învățământ respective.",
+      "solution": {
+        "steps": [
+          "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „consiliul de administrație”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
+          "Reperul cerut este: Consiliul de administrație.",
+          "Înlocuiește spațiul cu fiecare variantă: numai „consiliul de administrație” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+        ],
+        "rule": "Consiliul de administrație.",
+        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "alternative": "Legătura de reținut: Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 8: „Înscrierea se face în urma unei solicitări scrise din partea părintelui, a tutorelui sau a reprezentantului legal și se aprobă de către ________ al unității de învățământ la care se solicită înscrierea, în limita planului de școlarizare aprobat, după asigurarea școlarizării beneficiarilor primari din circumscripția școlară a unității de învățământ respective”. → Consiliul de administrație."
+      },
+      "feedback": [
+        "Prevederea atribuie acest rol lui „consiliul de administrație”. Varianta păstrează regula.",
+        "Prevederea atribuie acest rol lui „consiliul de administrație”. Varianta „Consiliul profesoral” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „consiliul de administrație”. Varianta „Consiliul reprezentativ al părinților” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „consiliul de administrație”. Varianta „Consiliul școlar al elevilor” schimbă reperul prevăzut în fragment."
+      ],
+      "article": "8",
+      "paragraph": null,
+      "id": "t11-q16"
+    },
+    {
+      "category": "rofuip",
+      "prompt": "Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 143: „Subiectele aferente testelor/probelor vor fi elaborate la nivelul unității de învățământ de către o comisie desemnată în acest sens de ________”.",
+      "options": [
+        "Directorul adjunct.",
+        "Directorul unității de învățământ.",
+        "Profesorul diriginte.",
+        "Secretarul unității de învățământ."
+      ],
+      "correct": 1,
+      "model": "Competențe instituționale",
+      "source": "ROFUIP, OME nr. 5726/2024, art. 143",
+      "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
+      "legalText": "Subiectele aferente testelor/probelor vor fi elaborate la nivelul unității de învățământ de către o comisie desemnată în acest sens de directorul unității de învățământ.",
+      "solution": {
+        "steps": [
+          "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „directorul unității de învățământ”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
+          "Reperul cerut este: Directorul unității de învățământ.",
+          "Înlocuiește spațiul cu fiecare variantă: numai „directorul unității de învățământ” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+        ],
+        "rule": "Directorul unității de învățământ.",
+        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "alternative": "Legătura de reținut: Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 143: „Subiectele aferente testelor/probelor vor fi elaborate la nivelul unității de învățământ de către o comisie desemnată în acest sens de ________”. → Directorul unității de învățământ."
+      },
+      "feedback": [
+        "Prevederea atribuie acest rol lui „directorul unității de învățământ”. Varianta „Directorul adjunct” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „directorul unității de învățământ”. Varianta păstrează regula.",
+        "Prevederea atribuie acest rol lui „directorul unității de învățământ”. Varianta „Profesorul diriginte” schimbă reperul prevăzut în fragment.",
+        "Prevederea atribuie acest rol lui „directorul unității de învățământ”. Varianta „Secretarul unității de învățământ” schimbă reperul prevăzut în fragment."
+      ],
+      "article": "143",
+      "paragraph": null,
+      "id": "t11-q17"
+    },
+    {
+      "category": "lege",
+      "prompt": "Completați prevederea din Legea nr. 198/2023, art. 215, alin. (2): „Cadrele didactice sancționate cu desfacerea disciplinară a contractului individual de muncă nu pot ocupa posturi didactice/catedre în învățământul preuniversitar de stat pentru o perioadă de ________ școlari”.",
+      "options": [
+        "12 ani.",
+        "5 ani.",
+        "7 ani.",
+        "9 ani."
+      ],
+      "correct": 2,
+      "model": "Termene și condiții",
+      "source": "Legea nr. 198/2023, art. 215, alin. (2)",
+      "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
+      "legalText": "Cadrele didactice sancționate cu desfacerea disciplinară a contractului individual de muncă nu pot ocupa posturi didactice/catedre în învățământul preuniversitar de stat pentru o perioadă de 7 ani școlari.",
+      "solution": {
+        "steps": [
+          "Cerința verifică termenul ori valoarea prevăzută expres. În fragmentul indicat, elementul care completează spațiul este „7 ani”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
+          "Reperul cerut este: 7 ani.",
+          "Înlocuiește spațiul cu fiecare variantă: numai „7 ani” păstrează prevederea citată. Celelalte trei modifică valoarea legală și nu reproduc regula pentru această situație."
+        ],
+        "rule": "7 ani.",
+        "trap": "Păstrează unitatea de timp și toate condițiile: zilele lucrătoare și zilele calendaristice nu se substituie.",
+        "alternative": "Legătura de reținut: Completați prevederea din Legea nr. 198/2023, art. 215, alin. (2): „Cadrele didactice sancționate cu desfacerea disciplinară a contractului individual de muncă nu pot ocupa posturi didactice/catedre în învățământul preuniversitar de stat pentru o perioadă de ________ școlari”. → 7 ani."
+      },
+      "feedback": [
+        "Prevederea stabilește valoarea „7 ani”. Varianta „12 ani” schimbă reperul prevăzut în fragment.",
+        "Prevederea stabilește valoarea „7 ani”. Varianta „5 ani” schimbă reperul prevăzut în fragment.",
+        "Prevederea stabilește valoarea „7 ani”. Varianta păstrează regula.",
+        "Prevederea stabilește valoarea „7 ani”. Varianta „9 ani” schimbă reperul prevăzut în fragment."
+      ],
+      "article": "215",
+      "paragraph": "2",
+      "id": "t11-q18"
+    },
+    {
+      "category": "rofuip",
+      "prompt": "Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 11: „Pentru clasele din învățământul gimnazial, liceal, profesional și din învățământul postliceal, ora de curs este de 50 de minute, cu o pauză de ________ după fiecare oră”.",
+      "options": [
+        "10 minute.",
+        "12 minute.",
+        "15 minute.",
+        "8 minute."
+      ],
+      "correct": 0,
+      "model": "Termene și condiții",
+      "source": "ROFUIP, OME nr. 5726/2024, art. 11",
+      "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
+      "legalText": "Pentru clasele din învățământul gimnazial, liceal, profesional și din învățământul postliceal, ora de curs este de 50 de minute, cu o pauză de 10 minute după fiecare oră",
+      "solution": {
+        "steps": [
+          "Cerința verifică termenul ori valoarea prevăzută expres. În fragmentul indicat, elementul care completează spațiul este „10 minute”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
+          "Reperul cerut este: 10 minute.",
+          "Înlocuiește spațiul cu fiecare variantă: numai „10 minute” păstrează prevederea citată. Celelalte trei modifică valoarea legală și nu reproduc regula pentru această situație."
+        ],
+        "rule": "10 minute.",
+        "trap": "Păstrează unitatea de timp și toate condițiile: zilele lucrătoare și zilele calendaristice nu se substituie.",
+        "alternative": "Legătura de reținut: Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 11: „Pentru clasele din învățământul gimnazial, liceal, profesional și din învățământul postliceal, ora de curs este de 50 de minute, cu o pauză de ________ după fiecare oră”. → 10 minute."
+      },
+      "feedback": [
+        "Prevederea stabilește valoarea „10 minute”. Varianta păstrează regula.",
+        "Prevederea stabilește valoarea „10 minute”. Varianta „12 minute” schimbă reperul prevăzut în fragment.",
+        "Prevederea stabilește valoarea „10 minute”. Varianta „15 minute” schimbă reperul prevăzut în fragment.",
+        "Prevederea stabilește valoarea „10 minute”. Varianta „8 minute” schimbă reperul prevăzut în fragment."
+      ],
+      "article": "11",
+      "paragraph": null,
+      "id": "t11-q19"
+    },
+    {
+      "category": "profil",
+      "prompt": "Evaluarea formativă este utilizată ca instrument de:",
+      "options": [
+        "îmbunătățire a învățării.",
+        "raportare.",
+        "sancționare.",
+        "selecție a elevilor."
+      ],
+      "correct": 0,
+      "model": "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "source": "Profilul profesional al managerului școlar, OMEC nr. 3934/2026; Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "sourceUrl": "https://www.isj.tm.edu.ro/public/data_files/specializari/fisier-7876.pdf",
+      "legalText": "",
+      "solution": {
+        "steps": [
+          "Profilul descrie competențe demonstrate prin comportamente profesionale. Pentru această cerință, reperul este „îmbunătățire a învățării”. Identifică mai întâi acțiunea cerută și domeniul ei; nu o confunda cu o activitate apropiată din alt domeniu.",
+          "Reperul cerut este: îmbunătățire a învățării.",
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+        ],
+        "rule": "îmbunătățire a învățării.",
+        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "alternative": "Legătura de reținut: Evaluarea formativă este utilizată ca instrument de: → îmbunătățire a învățării."
+      },
+      "feedback": [
+        "Această variantă corespunde reperului din sursă: îmbunătățire a învățării.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: îmbunătățire a învățării.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: îmbunătățire a învățării.",
+        "Această variantă nu completează relația cerută. Reperul din sursă este: îmbunătățire a învățării."
+      ],
+      "id": "t11-q20"
+    }
+  ]
+}
