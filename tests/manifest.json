@@ -1,0 +1,331 @@
+[
+  {
+    "id": 1,
+    "title": "Repere și responsabilități",
+    "file": "tests/test-01.json",
+    "models": [
+      "Competențe instituționale",
+      "Ce este leadershipul educațional",
+      "Profesorul și impactul asupra învățării",
+      "Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Managementul curriculumului",
+      "Managementul calității și evaluare internă",
+      "Termene și condiții",
+      "Leadershipul și valorile",
+      "Ce este managementul educațional",
+      "Stabilirea obiectivelor"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Conducere și învățare",
+    "file": "tests/test-02.json",
+    "models": [
+      "Competențe instituționale",
+      "Obiective organizaționale sau individuale",
+      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Managementul curriculumului",
+      "Termene și condiții",
+      "Profesorul și impactul asupra învățării",
+      "Descentralizarea și autonomia în management",
+      "Importanța contextului educațional",
+      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Leadershipul și viziunea"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Decizii fundamentate",
+    "file": "tests/test-03.json",
+    "models": [
+      "Competențe instituționale",
+      "Stabilirea obiectivelor",
+      "Managementul curriculumului",
+      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Termene și condiții",
+      "Profesorul și impactul asupra învățării",
+      "Leadershipul și valorile",
+      "Diferența dintre leadership și management educațional"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Calitate și echitate",
+    "file": "tests/test-04.json",
+    "models": [
+      "Profesorul și impactul asupra învățării",
+      "Importanța contextului educațional",
+      "Leadershipul și viziunea",
+      "Leadershipul și valorile",
+      "Management operațional administrativ-financiar și conformitate",
+      "Competențe instituționale",
+      "Termene și condiții",
+      "Managementul curriculumului",
+      "Leadershipul ca influență"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Curriculum în acțiune",
+    "file": "tests/test-05.json",
+    "models": [
+      "Leadershipul instruirii",
+      "Profesorul și impactul asupra învățării",
+      "Competențe instituționale",
+      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Importanța contextului educațional",
+      "Managementul curriculumului",
+      "Descentralizarea și autonomia în management",
+      "Managementul calității și evaluare internă",
+      "Termene și condiții",
+      "Diferența dintre leadership și management educațional"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Colaborare și dezvoltare",
+    "file": "tests/test-06.json",
+    "models": [
+      "Competențe instituționale",
+      "Termene și condiții",
+      "Stabilirea obiectivelor",
+      "Context, valori fundamentale și competențe transversale",
+      "Leadershipul ca influență",
+      "Profesorul și impactul asupra învățării",
+      "Managementul curriculumului",
+      "Ce este leadershipul educațional",
+      "Perspectivă cronologică asupra leadershipului"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Reguli și competențe",
+    "file": "tests/test-07.json",
+    "models": [
+      "Profesorul și impactul asupra învățării",
+      "Descentralizarea și autonomia în management",
+      "Managementul calității și evaluare internă",
+      "Managementul curriculumului",
+      "Management operațional administrativ-financiar și conformitate",
+      "Competențe instituționale",
+      "Obiectivele formale",
+      "Leadershipul și viziunea",
+      "Termene și condiții"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Școala ca organizație",
+    "file": "tests/test-08.json",
+    "models": [
+      "Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Descentralizarea și autonomia în management",
+      "Competențe instituționale",
+      "Leadershipul instruirii",
+      "Profesorul și impactul asupra învățării",
+      "Managementul curriculumului",
+      "Management operațional administrativ-financiar și conformitate",
+      "Importanța contextului educațional",
+      "Termene și condiții"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Strategie și aplicare",
+    "file": "tests/test-09.json",
+    "models": [
+      "Competențe instituționale",
+      "Termene și condiții",
+      "Management operațional administrativ-financiar și conformitate",
+      "Managementul curriculumului",
+      "Ce este leadershipul educațional",
+      "Leadershipul ca influență",
+      "Profesorul și impactul asupra învățării",
+      "Ce este managementul educațional",
+      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Progresul elevilor",
+    "file": "tests/test-10.json",
+    "models": [
+      "Termene și condiții",
+      "Competențe instituționale",
+      "Managementul curriculumului",
+      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Profesorul și impactul asupra învățării",
+      "Leadershipul și viziunea",
+      "Perspectivă cronologică asupra leadershipului",
+      "Descentralizarea și autonomia în management",
+      "Leadership educațional, guvernanță instituțională și orientare strategică"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Roluri și atribuții",
+    "file": "tests/test-11.json",
+    "models": [
+      "Ce este leadershipul educațional",
+      "Competențe instituționale",
+      "Ce este managementul educațional",
+      "Profesorul și impactul asupra învățării",
+      "Proiectare și aplicare curriculară",
+      "Stabilirea obiectivelor",
+      "Perspectivă cronologică asupra leadershipului",
+      "Context, valori fundamentale și competențe transversale",
+      "Termene și condiții",
+      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Învățare și impact",
+    "file": "tests/test-12.json",
+    "models": [
+      "Competențe instituționale",
+      "Proiectare și aplicare curriculară",
+      "Leadershipul instruirii",
+      "Diferența dintre leadership și management educațional",
+      "Profesorul și impactul asupra învățării",
+      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Termene și condiții",
+      "Obiectivele formale",
+      "Ce este leadershipul educațional"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Resurse și finalități",
+    "file": "tests/test-13.json",
+    "models": [
+      "Proiectare și aplicare curriculară",
+      "Profesorul și impactul asupra învățării",
+      "Obiective organizaționale sau individuale",
+      "Competențe instituționale",
+      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Stabilirea obiectivelor",
+      "Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Termene și condiții",
+      "Leadershipul instruirii"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Cultură și performanță",
+    "file": "tests/test-14.json",
+    "models": [
+      "Leadershipul și valorile",
+      "Competențe instituționale",
+      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Proiectare și aplicare curriculară",
+      "Leadershipul și viziunea",
+      "Profesorul și impactul asupra învățării",
+      "Ce este leadershipul educațional",
+      "Importanța contextului educațional",
+      "Termene și condiții"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Autonomie și răspundere",
+    "file": "tests/test-15.json",
+    "models": [
+      "Competențe instituționale",
+      "Profesorul și impactul asupra învățării",
+      "Proiectare și aplicare curriculară",
+      "Obiectivele formale",
+      "Obiective organizaționale sau individuale",
+      "Leadershipul instruirii",
+      "Termene și condiții",
+      "Context, valori fundamentale și competențe transversale",
+      "Diferența dintre leadership și management educațional",
+      "Managementul calității și evaluare internă"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Evaluare și ameliorare",
+    "file": "tests/test-16.json",
+    "models": [
+      "Termene și condiții",
+      "Competențe instituționale",
+      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Importanța contextului educațional",
+      "Leadershipul instruirii",
+      "Leadershipul și viziunea",
+      "Profesorul și impactul asupra învățării",
+      "Proiectare și aplicare curriculară",
+      "Ce este leadershipul educațional",
+      "Managementul calității și evaluare internă"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Leadership educațional",
+    "file": "tests/test-17.json",
+    "models": [
+      "Leadershipul și valorile",
+      "Proiectare și aplicare curriculară",
+      "Competențe instituționale",
+      "Profesorul și impactul asupra învățării",
+      "Leadershipul ca influență",
+      "Ce este managementul educațional",
+      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Managementul calității și evaluare internă",
+      "Termene și condiții"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Comunitate și participare",
+    "file": "tests/test-18.json",
+    "models": [
+      "Ce este leadershipul educațional",
+      "Proiectare și aplicare curriculară",
+      "Termene și condiții",
+      "Profesorul și impactul asupra învățării",
+      "Competențe instituționale",
+      "Leadershipul și viziunea",
+      "Nivel funcțional și complementaritatea cu profilul cadrului didactic",
+      "Obiectivele formale",
+      "Obiective organizaționale sau individuale",
+      "Managementul calității și evaluare internă"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Claritate și coerență",
+    "file": "tests/test-19.json",
+    "models": [
+      "Profesorul și impactul asupra învățării",
+      "Management operațional administrativ-financiar și conformitate",
+      "Termene și condiții",
+      "Competențe instituționale",
+      "Proiectare și aplicare curriculară",
+      "Ce este managementul educațional",
+      "Obiectivele formale",
+      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Perspectivă cronologică asupra leadershipului",
+      "Leadershipul și viziunea"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Sinteză pentru reușită",
+    "file": "tests/test-20.json",
+    "models": [
+      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Profesorul și impactul asupra învățării",
+      "Termene și condiții",
+      "Proiectare și aplicare curriculară",
+      "Competențe instituționale",
+      "Stabilirea obiectivelor",
+      "Perspectivă cronologică asupra leadershipului",
+      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Obiective organizaționale sau individuale",
+      "Leadershipul instruirii"
+    ]
+  }
+]
