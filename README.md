@@ -6,6 +6,6 @@ Răspunsurile, nota și explicațiile apar după finalizare. Include salvare loc
 
 Materiale de antrenament; nu sunt subiecte oficiale. Surse: materialele de studiu de pe concursdirectori.ro și ccecp.github.io; Legea 198 consolidată din documentul de studiu la 15.09.2026, ROFUIP cu actualizări 2026, Bush cap. 1–3, Hattie cap. 9, Profil OMEC 3934/2026, Curriculum OMEC 4137/2026 cap. 10. Distribuția și notarea: informarea MEC din 29.09.2026.
 
-Pentru rulare locală: `python -m http.server 8000`, apoi deschideți http://localhost:8000. Pentru GitHub Pages: Settings → Pages → Source → Deploy from a branch → main → / (root).
+Pentru rulare locală: `python -m http.server 8000`, apoi deschideți http://localhost:8000. Pentru GitHub Pages: Settings → Pages → Source → GitHub Actions, apoi relansați workflow-ul „Verificare și publicare teste”.
 
 Prof. dr. Maria-Magdalena Dorcioman
