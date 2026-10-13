@@ -1,11 +1,11 @@
 {
   "id": 5,
-  "title": "Curriculum în acțiune",
+  "title": "Simulare aplicativă 05 · model 13 octombrie",
   "durationSeconds": 3600,
   "questions": [
     {
       "category": "bush",
-      "prompt": "Care sunt cele trei strategii de bază indicate de Southworth?",
+      "prompt": "Într-o situație de management școlar, directorul analizează comportamentul organizației prin conceptele și modelele prezentate de Tony Bush.\n\nCare sunt cele trei strategii de bază indicate de Southworth?\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "autonomia, bugetarea și inspecția.",
         "controlul, sancțiunea și raportarea.",
@@ -13,18 +13,20 @@
         "viziunea, marketingul și recrutarea."
       ],
       "correct": 2,
-      "model": "Leadershipul instruirii",
+      "model": "Aplicare în context · Leadershipul instruirii",
       "source": "Tony Bush, capitolul 1, secțiunea „Leadershipul instruirii”, p. 30–31",
       "sourceUrl": "https://ccecp.github.io/Bush_1/",
       "legalText": "",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Întrebarea se referă la „Leadershipul instruirii”. Răspunsul se sprijină pe ideea „modelarea, monitorizarea și dialogul” din capitolul I (p. 30–31). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului.",
           "Reperul cerut este: modelarea, monitorizarea și dialogul.",
-          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "modelarea, monitorizarea și dialogul.",
-        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
         "alternative": "Legătura de reținut: Care sunt cele trei strategii de bază indicate de Southworth? → modelarea, monitorizarea și dialogul."
       },
       "feedback": [
@@ -33,11 +35,12 @@
         "Această variantă corespunde reperului din sursă: modelarea, monitorizarea și dialogul.",
         "Această variantă nu completează relația cerută. Reperul din sursă este: modelarea, monitorizarea și dialogul."
       ],
-      "id": "t5-q1"
+      "id": "t5-q1",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "hattie",
-      "prompt": "Ce alternativă este susținută în discuția despre neetichetarea elevilor?",
+      "prompt": "În analiza impactului asupra învățării, echipa managerială discută o situație folosind reperele din capitolul 9 al lucrării lui John Hattie.\n\nCe alternativă este susținută în discuția despre neetichetarea elevilor?\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "Explicarea dificultăților numai prin mediul familial.",
         "Intervenții didactice fundamentate pe dovezi.",
@@ -45,18 +48,20 @@
         "Stabilirea permanentă a potențialului printr-o etichetă."
       ],
       "correct": 1,
-      "model": "Profesorul și impactul asupra învățării",
+      "model": "Aplicare în context · Profesorul și impactul asupra învățării",
       "source": "John Hattie, Învățarea vizibilă, cap. 9, p. 234–235",
       "sourceUrl": "https://concursdirectori.ro/hattie-invatarea-vizibila-capitolul-9-profesorul/",
       "legalText": "",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Accentul se mută asupra intervențiilor care funcționează și pot fi evaluate. Diagnosticul sau categoria nu trebuie să devină un plafon pentru progres.",
           "Reperul cerut este: Intervenții didactice fundamentate pe dovezi.",
-          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "Intervenții didactice fundamentate pe dovezi.",
-        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
         "alternative": "Legătura de reținut: Ce alternativă este susținută în discuția despre neetichetarea elevilor? → Intervenții didactice fundamentate pe dovezi."
       },
       "feedback": [
@@ -65,11 +70,12 @@
         "Această variantă nu completează relația cerută. Reperul din sursă este: Intervenții didactice fundamentate pe dovezi.",
         "Această variantă nu completează relația cerută. Reperul din sursă este: Intervenții didactice fundamentate pe dovezi."
       ],
-      "id": "t5-q2"
+      "id": "t5-q2",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "rofuip",
-      "prompt": "Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 55: „stabilește și monitorizează aplicarea Codului de etică profesională elaborat în conformitate cu Codul-cadru de etică profesională aprobat prin ordin al ________”.",
+      "prompt": "Într-o școală, conducerea trebuie să ia o decizie în acord cu ROFUIP. Echipa managerială verifică exact cine are competența, în ce condiții și prin ce procedură se poate acționa.\n\nCompletați prevederea din ROFUIP, OME nr. 5726/2024, art. 55: „stabilește și monitorizează aplicarea Codului de etică profesională elaborat în conformitate cu Codul-cadru de etică profesională aprobat prin ordin al ________”.\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "Directorului unității de învățământ.",
         "Ministrului educației.",
@@ -77,18 +83,20 @@
         "Primarului."
       ],
       "correct": 1,
-      "model": "Competențe instituționale",
+      "model": "Aplicare în context · Competențe instituționale",
       "source": "ROFUIP, OME nr. 5726/2024, art. 55",
       "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
       "legalText": "stabilește și monitorizează aplicarea Codului de etică profesională elaborat în conformitate cu Codul-cadru de etică profesională aprobat prin ordin al ministrului educației",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „ministrului educației”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
           "Reperul cerut este: Ministrului educației.",
-          "Înlocuiește spațiul cu fiecare variantă: numai „ministrului educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+          "Înlocuiește spațiul cu fiecare variantă: numai „ministrului educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "Ministrului educației.",
-        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
         "alternative": "Legătura de reținut: Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 55: „stabilește și monitorizează aplicarea Codului de etică profesională elaborat în conformitate cu Codul-cadru de etică profesională aprobat prin ordin al ________”. → Ministrului educației."
       },
       "feedback": [
@@ -99,11 +107,12 @@
       ],
       "article": "55",
       "paragraph": null,
-      "id": "t5-q3"
+      "id": "t5-q3",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "rofuip",
-      "prompt": "Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 169: „________/reprezentanților legali colaborează cu structurile asociative ale părinților/reprezentanților legali la nivel local, județean, regional și național”.",
+      "prompt": "Într-o școală, conducerea trebuie să ia o decizie în acord cu ROFUIP. Echipa managerială verifică exact cine are competența, în ce condiții și prin ce procedură se poate acționa.\n\nCompletați prevederea din ROFUIP, OME nr. 5726/2024, art. 169: „________/reprezentanților legali colaborează cu structurile asociative ale părinților/reprezentanților legali la nivel local, județean, regional și național”.\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "Consiliul de administrație.",
         "Consiliul profesoral.",
@@ -111,18 +120,20 @@
         "Consiliul școlar al elevilor."
       ],
       "correct": 2,
-      "model": "Competențe instituționale",
+      "model": "Aplicare în context · Competențe instituționale",
       "source": "ROFUIP, OME nr. 5726/2024, art. 169",
       "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
       "legalText": "Consiliul reprezentativ al părinților/reprezentanților legali colaborează cu structurile asociative ale părinților/reprezentanților legali la nivel local, județean, regional și național.",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „Consiliul reprezentativ al părinților”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
           "Reperul cerut este: Consiliul reprezentativ al părinților.",
-          "Înlocuiește spațiul cu fiecare variantă: numai „Consiliul reprezentativ al părinților” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+          "Înlocuiește spațiul cu fiecare variantă: numai „Consiliul reprezentativ al părinților” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "Consiliul reprezentativ al părinților.",
-        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
         "alternative": "Legătura de reținut: Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 169: „________/reprezentanților legali colaborează cu structurile asociative ale părinților/reprezentanților legali la nivel local, județean, regional și național”. → Consiliul reprezentativ al părinților."
       },
       "feedback": [
@@ -133,11 +144,12 @@
       ],
       "article": "169",
       "paragraph": null,
-      "id": "t5-q4"
+      "id": "t5-q4",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "rofuip",
-      "prompt": "Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 80: „Resursele extrabugetare ale unității pot fi folosite exclusiv de aceasta, conform hotărârii ________”.",
+      "prompt": "Într-o școală, conducerea trebuie să ia o decizie în acord cu ROFUIP. Echipa managerială verifică exact cine are competența, în ce condiții și prin ce procedură se poate acționa.\n\nCompletați prevederea din ROFUIP, OME nr. 5726/2024, art. 80: „Resursele extrabugetare ale unității pot fi folosite exclusiv de aceasta, conform hotărârii ________”.\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "Consiliului de administrație.",
         "Consiliului profesoral.",
@@ -145,18 +157,20 @@
         "Consiliului școlar al elevilor."
       ],
       "correct": 0,
-      "model": "Competențe instituționale",
+      "model": "Aplicare în context · Competențe instituționale",
       "source": "ROFUIP, OME nr. 5726/2024, art. 80",
       "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
       "legalText": "Resursele extrabugetare ale unității pot fi folosite exclusiv de aceasta, conform hotărârii consiliului de administrație.",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „consiliului de administrație”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
           "Reperul cerut este: Consiliului de administrație.",
-          "Înlocuiește spațiul cu fiecare variantă: numai „consiliului de administrație” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+          "Înlocuiește spațiul cu fiecare variantă: numai „consiliului de administrație” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "Consiliului de administrație.",
-        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
         "alternative": "Legătura de reținut: Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 80: „Resursele extrabugetare ale unității pot fi folosite exclusiv de aceasta, conform hotărârii ________”. → Consiliului de administrație."
       },
       "feedback": [
@@ -167,11 +181,12 @@
       ],
       "article": "80",
       "paragraph": null,
-      "id": "t5-q5"
+      "id": "t5-q5",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "profil",
-      "prompt": "În document este menționat proiectul:",
+      "prompt": "În evaluarea activității unui manager școlar, comisia raportează situația la Profilul profesional al managerului școlar și la comportamentele profesionale asociate competențelor sale.\n\nÎn document este menționat proiectul:\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "ARACIP.",
         "eTwinning.",
@@ -179,18 +194,20 @@
         "PLC."
       ],
       "correct": 1,
-      "model": "Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "model": "Aplicare în context · Comunicare, relaționare, parteneriate și colaborare în comunitate",
       "source": "Profilul profesional al managerului școlar, OMEC nr. 3934/2026; Comunicare, relaționare, parteneriate și colaborare în comunitate",
       "sourceUrl": "https://www.isj.tm.edu.ro/public/data_files/specializari/fisier-7876.pdf",
       "legalText": "",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Profilul descrie competențe demonstrate prin comportamente profesionale. Pentru această cerință, reperul este „eTwinning”. Identifică mai întâi acțiunea cerută și domeniul ei; nu o confunda cu o activitate apropiată din alt domeniu.",
           "Reperul cerut este: eTwinning.",
-          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "eTwinning.",
-        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
         "alternative": "Legătura de reținut: În document este menționat proiectul: → eTwinning."
       },
       "feedback": [
@@ -199,11 +216,12 @@
         "Această variantă nu completează relația cerută. Reperul din sursă este: eTwinning.",
         "Această variantă nu completează relația cerută. Reperul din sursă este: eTwinning."
       ],
-      "id": "t5-q6"
+      "id": "t5-q6",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "hattie",
-      "prompt": "Ce risc pedagogic poate produce etichetarea grupurilor de elevi?",
+      "prompt": "În analiza impactului asupra învățării, echipa managerială discută o situație folosind reperele din capitolul 9 al lucrării lui John Hattie.\n\nCe risc pedagogic poate produce etichetarea grupurilor de elevi?\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "Creșterea garantată a rezultatelor întregului grup.",
         "Eliminarea tuturor prejudecăților profesorilor.",
@@ -211,18 +229,20 @@
         "Scăderea așteptărilor față de membrii grupului."
       ],
       "correct": 3,
-      "model": "Profesorul și impactul asupra învățării",
+      "model": "Aplicare în context · Profesorul și impactul asupra învățării",
       "source": "John Hattie, Învățarea vizibilă, cap. 9, p. 234–235",
       "sourceUrl": "https://concursdirectori.ro/hattie-invatarea-vizibila-capitolul-9-profesorul/",
       "legalText": "",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Eticheta poate ascunde diferențele individuale și poate genera așteptări mici. Apartenența la o categorie nu înlocuiește analiza nevoilor elevului.",
           "Reperul cerut este: Scăderea așteptărilor față de membrii grupului.",
-          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "Scăderea așteptărilor față de membrii grupului.",
-        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
         "alternative": "Legătura de reținut: Ce risc pedagogic poate produce etichetarea grupurilor de elevi? → Scăderea așteptărilor față de membrii grupului."
       },
       "feedback": [
@@ -231,11 +251,12 @@
         "Această variantă nu completează relația cerută. Reperul din sursă este: Scăderea așteptărilor față de membrii grupului.",
         "Această variantă corespunde reperului din sursă: Scăderea așteptărilor față de membrii grupului."
       ],
-      "id": "t5-q7"
+      "id": "t5-q7",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "lege",
-      "prompt": "Completați prevederea din Legea nr. 198/2023, art. 100, alin. (2): „Continuarea studiilor din învățământul gimnazial în învățământul liceal este asigurată pe baza unui proces de consiliere vocațională și de orientare școlară și profesională care se desfășoară pe tot parcursul ciclului gimnazial în baza metodologiei aprobate prin ordin al ________”.",
+      "prompt": "Într-o unitate de învățământ apare o situație care trebuie soluționată prin aplicarea Legii învățământului preuniversitar nr. 198/2023. Directorul trebuie să distingă exact competența, condiția, excepția sau termenul prevăzut de norma aplicabilă.\n\nCompletați prevederea din Legea nr. 198/2023, art. 100, alin. (2): „Continuarea studiilor din învățământul gimnazial în învățământul liceal este asigurată pe baza unui proces de consiliere vocațională și de orientare școlară și profesională care se desfășoară pe tot parcursul ciclului gimnazial în baza metodologiei aprobate prin ordin al ________”.\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "Directorului unității de învățământ.",
         "Ministrului educației.",
@@ -243,18 +264,20 @@
         "Primarului."
       ],
       "correct": 1,
-      "model": "Competențe instituționale",
+      "model": "Aplicare în context · Competențe instituționale",
       "source": "Legea nr. 198/2023, art. 100, alin. (2)",
       "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
       "legalText": "Continuarea studiilor din învățământul gimnazial în învățământul liceal este asigurată pe baza unui proces de consiliere vocațională și de orientare școlară și profesională care se desfășoară pe tot parcursul ciclului gimnazial în baza metodologiei aprobate prin ordin al ministrului educației.",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „ministrului educației”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
           "Reperul cerut este: Ministrului educației.",
-          "Înlocuiește spațiul cu fiecare variantă: numai „ministrului educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+          "Înlocuiește spațiul cu fiecare variantă: numai „ministrului educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "Ministrului educației.",
-        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
         "alternative": "Legătura de reținut: Completați prevederea din Legea nr. 198/2023, art. 100, alin. (2): „Continuarea studiilor din învățământul gimnazial în învățământul liceal este asigurată pe baza unui proces de consiliere vocațională și de orientare școlară și profesională care se desfășoară pe tot parcursul ciclului gimnazial în baza metodologiei aprobate prin ordin al ________”. → Ministrului educației."
       },
       "feedback": [
@@ -265,11 +288,12 @@
       ],
       "article": "100",
       "paragraph": "2",
-      "id": "t5-q8"
+      "id": "t5-q8",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "lege",
-      "prompt": "Completați prevederea din Legea nr. 198/2023, art. 102, alin. (8): „Metodologia de organizare a examenului de bacalaureat pentru elevii surzi și/sau hipoacuzici se stabilește prin ordin al ________”.",
+      "prompt": "Într-o unitate de învățământ apare o situație care trebuie soluționată prin aplicarea Legii învățământului preuniversitar nr. 198/2023. Directorul trebuie să distingă exact competența, condiția, excepția sau termenul prevăzut de norma aplicabilă.\n\nCompletați prevederea din Legea nr. 198/2023, art. 102, alin. (8): „Metodologia de organizare a examenului de bacalaureat pentru elevii surzi și/sau hipoacuzici se stabilește prin ordin al ________”.\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "Directorului unității de învățământ.",
         "Ministrului educației.",
@@ -277,18 +301,20 @@
         "Primarului."
       ],
       "correct": 1,
-      "model": "Competențe instituționale",
+      "model": "Aplicare în context · Competențe instituționale",
       "source": "Legea nr. 198/2023, art. 102, alin. (8)",
       "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
       "legalText": "Metodologia de organizare a examenului de bacalaureat pentru elevii surzi și/sau hipoacuzici se stabilește prin ordin al ministrului educației.",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „ministrului educației”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
           "Reperul cerut este: Ministrului educației.",
-          "Înlocuiește spațiul cu fiecare variantă: numai „ministrului educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+          "Înlocuiește spațiul cu fiecare variantă: numai „ministrului educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "Ministrului educației.",
-        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
         "alternative": "Legătura de reținut: Completați prevederea din Legea nr. 198/2023, art. 102, alin. (8): „Metodologia de organizare a examenului de bacalaureat pentru elevii surzi și/sau hipoacuzici se stabilește prin ordin al ________”. → Ministrului educației."
       },
       "feedback": [
@@ -299,11 +325,12 @@
       ],
       "article": "102",
       "paragraph": "8",
-      "id": "t5-q9"
+      "id": "t5-q9",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "bush",
-      "prompt": "Care este scopul primordial al instituției de învățământ?",
+      "prompt": "Într-o situație de management școlar, directorul analizează comportamentul organizației prin conceptele și modelele prezentate de Tony Bush.\n\nCare este scopul primordial al instituției de învățământ?\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "aplicarea tuturor metodelor din industrie.",
         "creșterea exclusivă a eficienței financiare.",
@@ -311,18 +338,20 @@
         "substituirea învățării cu marketingul."
       ],
       "correct": 2,
-      "model": "Importanța contextului educațional",
+      "model": "Aplicare în context · Importanța contextului educațional",
       "source": "Tony Bush, capitolul 1, secțiunea „Importanța contextului educațional”, p. 29",
       "sourceUrl": "https://ccecp.github.io/Bush_1/",
       "legalText": "",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Întrebarea se referă la „Importanța contextului educațional”. Răspunsul se sprijină pe ideea „promovarea unui demers educațional eficient” din capitolul I (p. 29). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului.",
           "Reperul cerut este: promovarea unui demers educațional eficient.",
-          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "promovarea unui demers educațional eficient.",
-        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
         "alternative": "Legătura de reținut: Care este scopul primordial al instituției de învățământ? → promovarea unui demers educațional eficient."
       },
       "feedback": [
@@ -331,11 +360,12 @@
         "Această variantă corespunde reperului din sursă: promovarea unui demers educațional eficient.",
         "Această variantă nu completează relația cerută. Reperul din sursă este: promovarea unui demers educațional eficient."
       ],
-      "id": "t5-q10"
+      "id": "t5-q10",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "lege",
-      "prompt": "Completați prevederea din Legea nr. 198/2023, art. 223, alin. (2): „Accesul părinților/tutorilor/reprezentanților legali ai beneficiarilor primari este permis în incinta unităților de învățământ, în concordanță cu procedura de acces prevăzută în regulamentul de organizare și funcționare al unității, dacă: a) a fost solicitat/a fost programat pentru o discuție cu un cadru didactic sau cu directorul/ ________ al unității de învățământ”.",
+      "prompt": "Într-o unitate de învățământ apare o situație care trebuie soluționată prin aplicarea Legii învățământului preuniversitar nr. 198/2023. Directorul trebuie să distingă exact competența, condiția, excepția sau termenul prevăzut de norma aplicabilă.\n\nCompletați prevederea din Legea nr. 198/2023, art. 223, alin. (2): „Accesul părinților/tutorilor/reprezentanților legali ai beneficiarilor primari este permis în incinta unităților de învățământ, în concordanță cu procedura de acces prevăzută în regulamentul de organizare și funcționare al unității, dacă: a) a fost solicitat/a fost programat pentru o discuție cu un cadru didactic sau cu directorul/ ________ al unității de învățământ”.\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "Directorul adjunct.",
         "Directorul unității de învățământ.",
@@ -343,18 +373,20 @@
         "Secretarul unității de învățământ."
       ],
       "correct": 0,
-      "model": "Competențe instituționale",
+      "model": "Aplicare în context · Competențe instituționale",
       "source": "Legea nr. 198/2023, art. 223, alin. (2)",
       "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
       "legalText": "Accesul părinților/tutorilor/reprezentanților legali ai beneficiarilor primari este permis în incinta unităților de învățământ, în concordanță cu procedura de acces prevăzută în regulamentul de organizare și funcționare al unității, dacă: a) a fost solicitat/a fost programat pentru o discuție cu un cadru didactic sau cu directorul/ directorul adjunct al unității de învățământ",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „directorul adjunct”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
           "Reperul cerut este: Directorul adjunct.",
-          "Înlocuiește spațiul cu fiecare variantă: numai „directorul adjunct” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+          "Înlocuiește spațiul cu fiecare variantă: numai „directorul adjunct” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "Directorul adjunct.",
-        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
         "alternative": "Legătura de reținut: Completați prevederea din Legea nr. 198/2023, art. 223, alin. (2): „Accesul părinților/tutorilor/reprezentanților legali ai beneficiarilor primari este permis în incinta unităților de învățământ, în concordanță cu procedura de acces prevăzută în regulamentul de organizare și funcționare al unității, dacă: a) a fost solicitat/a fost programat pentru o discuție cu un cadru didactic sau cu directorul/ ________ al unității de învățământ”. → Directorul adjunct."
       },
       "feedback": [
@@ -365,11 +397,12 @@
       ],
       "article": "223",
       "paragraph": "2",
-      "id": "t5-q11"
+      "id": "t5-q11",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "curriculum",
-      "prompt": "Profesorul stabilește succesiunea unităților, relațiile intra- și interdisciplinare, competențele, conținuturile și bugetul de timp, marcând adaptările anuale. Ce document elaborează?",
+      "prompt": "În proiectarea și managementul curriculumului la nivelul școlii, directorul trebuie să aleagă soluția compatibilă cu Cadrul de Referință al Curriculumului Național, capitolul 10.\n\nProfesorul stabilește succesiunea unităților, relațiile intra- și interdisciplinare, competențele, conținuturile și bugetul de timp, marcând adaptările anuale. Ce document elaborează?\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "Planificarea calendaristică, raportând unitățile de învățare la competențele specifice din programa școlară.",
         "Proiectul lecției, raportând activitățile de învățare la descriptorii nivelurilor de performanță ai elevului.",
@@ -377,18 +410,20 @@
         "Schema orară, raportând disciplinele din trunchiul comun la opțiunile elevilor pentru CS flexibil și CDEOȘ."
       ],
       "correct": 0,
-      "model": "Managementul curriculumului",
+      "model": "Aplicare în context · Managementul curriculumului",
       "source": "Cadrul de Referință al Curriculumului Național, cap. 10, OMEC nr. 4137/2026",
       "sourceUrl": "https://concursdirectori.ro/curriculum-capitolul-10/",
       "legalText": "",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Acestea sunt întrebările planificării calendaristice; se analizează și numărul total de ore. Documentele profesorului sunt planificarea, proiectul unității și proiectul lecției. (Materialul-sursă, p. 37) Leagă acțiunea descrisă de formarea competențelor și de nevoile reale de învățare ale elevilor.",
           "Reperul cerut este: Planificarea calendaristică, raportând unitățile de învățare la competențele specifice din programa școlară.",
-          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "Planificarea calendaristică, raportând unitățile de învățare la competențele specifice din programa școlară.",
-        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
         "alternative": "Legătura de reținut: Profesorul stabilește succesiunea unităților, relațiile intra- și interdisciplinare, competențele, conținuturile și bugetul de timp, marcând adaptările anuale. Ce document elaborează? → Planificarea calendaristică, raportând unitățile de învățare la competențele specifice din programa școlară."
       },
       "feedback": [
@@ -397,11 +432,12 @@
         "Această variantă nu completează relația cerută. Reperul din sursă este: Planificarea calendaristică, raportând unitățile de învățare la competențele specifice din programa școlară.",
         "Această variantă nu completează relația cerută. Reperul din sursă este: Planificarea calendaristică, raportând unitățile de învățare la competențele specifice din programa școlară."
       ],
-      "id": "t5-q12"
+      "id": "t5-q12",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "bush",
-      "prompt": "De ce poate fi utilă alocarea resurselor la nivelul școlii, potrivit lui Caldwell?",
+      "prompt": "Într-o situație de management școlar, directorul analizează comportamentul organizației prin conceptele și modelele prezentate de Tony Bush.\n\nDe ce poate fi utilă alocarea resurselor la nivelul școlii, potrivit lui Caldwell?\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "fiecare școală are un amestec unic de nevoi și aspirații.",
         "fiecare școală urmărește obiective identice în orice context.",
@@ -409,18 +445,20 @@
         "resursele se distribuie optim fără o analiză locală."
       ],
       "correct": 0,
-      "model": "Descentralizarea și autonomia în management",
+      "model": "Aplicare în context · Descentralizarea și autonomia în management",
       "source": "Tony Bush, capitolul 1, secțiunea „Descentralizarea și autonomia în management”, p. 27",
       "sourceUrl": "https://ccecp.github.io/Bush_1/",
       "legalText": "",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Întrebarea se referă la „Descentralizarea și autonomia în management”. Răspunsul se sprijină pe ideea „fiecare școală are un amestec unic de nevoi și aspirații” din capitolul I (p. 27). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului.",
           "Reperul cerut este: fiecare școală are un amestec unic de nevoi și aspirații.",
-          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "fiecare școală are un amestec unic de nevoi și aspirații.",
-        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
         "alternative": "Legătura de reținut: De ce poate fi utilă alocarea resurselor la nivelul școlii, potrivit lui Caldwell? → fiecare școală are un amestec unic de nevoi și aspirații."
       },
       "feedback": [
@@ -429,11 +467,12 @@
         "Această variantă nu completează relația cerută. Reperul din sursă este: fiecare școală are un amestec unic de nevoi și aspirații.",
         "Această variantă nu completează relația cerută. Reperul din sursă este: fiecare școală are un amestec unic de nevoi și aspirații."
       ],
-      "id": "t5-q13"
+      "id": "t5-q13",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "lege",
-      "prompt": "Completați prevederea din Legea nr. 198/2023, art. 161: „________, împreună cu Ministerul Muncii și Solidarității Sociale, cu Ministerul Culturii și cu Autoritatea Națională pentru Calificări, stabilesc normele metodologice de elaborare a statutului și rutei de profesionalizare a personalului care lucrează în domeniul educației pe tot parcursul vieții, aprobate prin hotărâre a Guvernului”.",
+      "prompt": "Într-o unitate de învățământ apare o situație care trebuie soluționată prin aplicarea Legii învățământului preuniversitar nr. 198/2023. Directorul trebuie să distingă exact competența, condiția, excepția sau termenul prevăzut de norma aplicabilă.\n\nCompletați prevederea din Legea nr. 198/2023, art. 161: „________, împreună cu Ministerul Muncii și Solidarității Sociale, cu Ministerul Culturii și cu Autoritatea Națională pentru Calificări, stabilesc normele metodologice de elaborare a statutului și rutei de profesionalizare a personalului care lucrează în domeniul educației pe tot parcursul vieții, aprobate prin hotărâre a Guvernului”.\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "Consiliul de administrație.",
         "Guvernul.",
@@ -441,18 +480,20 @@
         "Ministerul Educației."
       ],
       "correct": 3,
-      "model": "Competențe instituționale",
+      "model": "Aplicare în context · Competențe instituționale",
       "source": "Legea nr. 198/2023, art. 161",
       "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
       "legalText": "Ministerul Educației, împreună cu Ministerul Muncii și Solidarității Sociale, cu Ministerul Culturii și cu Autoritatea Națională pentru Calificări, stabilesc normele metodologice de elaborare a statutului și rutei de profesionalizare a personalului care lucrează în domeniul educației pe tot parcursul vieții, aprobate prin hotărâre a Guvernului.",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „Ministerul Educației”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
           "Reperul cerut este: Ministerul Educației.",
-          "Înlocuiește spațiul cu fiecare variantă: numai „Ministerul Educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+          "Înlocuiește spațiul cu fiecare variantă: numai „Ministerul Educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "Ministerul Educației.",
-        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
         "alternative": "Legătura de reținut: Completați prevederea din Legea nr. 198/2023, art. 161: „________, împreună cu Ministerul Muncii și Solidarității Sociale, cu Ministerul Culturii și cu Autoritatea Națională pentru Calificări, stabilesc normele metodologice de elaborare a statutului și rutei de profesionalizare a personalului care lucrează în domeniul educației pe tot parcursul vieții, aprobate prin hotărâre a Guvernului”. → Ministerul Educației."
       },
       "feedback": [
@@ -463,11 +504,12 @@
       ],
       "article": "161",
       "paragraph": null,
-      "id": "t5-q14"
+      "id": "t5-q14",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "lege",
-      "prompt": "Completați prevederea din Legea nr. 198/2023, art. 87, alin. (3): „Disciplina Religie poate fi predată numai de personalul didactic calificat, conform prevederilor prezentei legi, și avizat de cultele religioase recunoscute oficial de stat, în conformitate cu metodologia aprobată prin ordin al ________”.",
+      "prompt": "Într-o unitate de învățământ apare o situație care trebuie soluționată prin aplicarea Legii învățământului preuniversitar nr. 198/2023. Directorul trebuie să distingă exact competența, condiția, excepția sau termenul prevăzut de norma aplicabilă.\n\nCompletați prevederea din Legea nr. 198/2023, art. 87, alin. (3): „Disciplina Religie poate fi predată numai de personalul didactic calificat, conform prevederilor prezentei legi, și avizat de cultele religioase recunoscute oficial de stat, în conformitate cu metodologia aprobată prin ordin al ________”.\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "Directorului unității de învățământ.",
         "Ministrului educației.",
@@ -475,18 +517,20 @@
         "Primarului."
       ],
       "correct": 1,
-      "model": "Competențe instituționale",
+      "model": "Aplicare în context · Competențe instituționale",
       "source": "Legea nr. 198/2023, art. 87, alin. (3)",
       "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
       "legalText": "Disciplina Religie poate fi predată numai de personalul didactic calificat, conform prevederilor prezentei legi, și avizat de cultele religioase recunoscute oficial de stat, în conformitate cu metodologia aprobată prin ordin al ministrului educației.",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „ministrului educației”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
           "Reperul cerut este: Ministrului educației.",
-          "Înlocuiește spațiul cu fiecare variantă: numai „ministrului educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+          "Înlocuiește spațiul cu fiecare variantă: numai „ministrului educației” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "Ministrului educației.",
-        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
         "alternative": "Legătura de reținut: Completați prevederea din Legea nr. 198/2023, art. 87, alin. (3): „Disciplina Religie poate fi predată numai de personalul didactic calificat, conform prevederilor prezentei legi, și avizat de cultele religioase recunoscute oficial de stat, în conformitate cu metodologia aprobată prin ordin al ________”. → Ministrului educației."
       },
       "feedback": [
@@ -497,11 +541,12 @@
       ],
       "article": "87",
       "paragraph": "3",
-      "id": "t5-q15"
+      "id": "t5-q15",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "profil",
-      "prompt": "Strategiile de îmbunătățire a calității sunt bazate pe:",
+      "prompt": "În evaluarea activității unui manager școlar, comisia raportează situația la Profilul profesional al managerului școlar și la comportamentele profesionale asociate competențelor sale.\n\nStrategiile de îmbunătățire a calității sunt bazate pe:\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "evidențe.",
         "experiență profesională.",
@@ -509,18 +554,20 @@
         "recomandări externe."
       ],
       "correct": 0,
-      "model": "Managementul calității și evaluare internă",
+      "model": "Aplicare în context · Managementul calității și evaluare internă",
       "source": "Profilul profesional al managerului școlar, OMEC nr. 3934/2026; Managementul calității și evaluare internă",
       "sourceUrl": "https://www.isj.tm.edu.ro/public/data_files/specializari/fisier-7876.pdf",
       "legalText": "",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Profilul descrie competențe demonstrate prin comportamente profesionale. Pentru această cerință, reperul este „evidențe”. Identifică mai întâi acțiunea cerută și domeniul ei; nu o confunda cu o activitate apropiată din alt domeniu.",
           "Reperul cerut este: evidențe.",
-          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "evidențe.",
-        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
         "alternative": "Legătura de reținut: Strategiile de îmbunătățire a calității sunt bazate pe: → evidențe."
       },
       "feedback": [
@@ -529,11 +576,12 @@
         "Această variantă nu completează relația cerută. Reperul din sursă este: evidențe.",
         "Această variantă nu completează relația cerută. Reperul din sursă este: evidențe."
       ],
-      "id": "t5-q16"
+      "id": "t5-q16",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "rofuip",
-      "prompt": "Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 74: „înscrierea copiilor/beneficiarilor primari pe baza dosarelor personale, păstrarea, organizarea și actualizarea permanentă a evidenței acestora și rezolvarea problemelor privind mișcarea beneficiarilor primari, în baza hotărârilor ________”.",
+      "prompt": "Într-o școală, conducerea trebuie să ia o decizie în acord cu ROFUIP. Echipa managerială verifică exact cine are competența, în ce condiții și prin ce procedură se poate acționa.\n\nCompletați prevederea din ROFUIP, OME nr. 5726/2024, art. 74: „înscrierea copiilor/beneficiarilor primari pe baza dosarelor personale, păstrarea, organizarea și actualizarea permanentă a evidenței acestora și rezolvarea problemelor privind mișcarea beneficiarilor primari, în baza hotărârilor ________”.\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "Consiliului de administrație.",
         "Consiliului profesoral.",
@@ -541,18 +589,20 @@
         "Consiliului școlar al elevilor."
       ],
       "correct": 0,
-      "model": "Competențe instituționale",
+      "model": "Aplicare în context · Competențe instituționale",
       "source": "ROFUIP, OME nr. 5726/2024, art. 74",
       "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
       "legalText": "înscrierea copiilor/beneficiarilor primari pe baza dosarelor personale, păstrarea, organizarea și actualizarea permanentă a evidenței acestora și rezolvarea problemelor privind mișcarea beneficiarilor primari, în baza hotărârilor consiliului de administrație",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Cerința verifică instituția sau persoana căreia îi revine atribuția. În fragmentul indicat, elementul care completează spațiul este „consiliului de administrație”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
           "Reperul cerut este: Consiliului de administrație.",
-          "Înlocuiește spațiul cu fiecare variantă: numai „consiliului de administrație” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație."
+          "Înlocuiește spațiul cu fiecare variantă: numai „consiliului de administrație” păstrează prevederea citată. Celelalte trei modifică titularul atribuției și nu reproduc regula pentru această situație.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "Consiliului de administrație.",
-        "trap": "Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Nu confunda o atribuție de aprobare cu una de avizare, propunere sau executare.",
         "alternative": "Legătura de reținut: Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 74: „înscrierea copiilor/beneficiarilor primari pe baza dosarelor personale, păstrarea, organizarea și actualizarea permanentă a evidenței acestora și rezolvarea problemelor privind mișcarea beneficiarilor primari, în baza hotărârilor ________”. → Consiliului de administrație."
       },
       "feedback": [
@@ -563,11 +613,12 @@
       ],
       "article": "74",
       "paragraph": null,
-      "id": "t5-q17"
+      "id": "t5-q17",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "rofuip",
-      "prompt": "Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 34, alin. (1): „Planul de dezvoltare instituțională constituie documentul de prognoză pe termen lung și se elaborează de către o echipă coordonată de către director, pentru o perioadă de 3 – ________”.",
+      "prompt": "Într-o școală, conducerea trebuie să ia o decizie în acord cu ROFUIP. Echipa managerială verifică exact cine are competența, în ce condiții și prin ce procedură se poate acționa.\n\nCompletați prevederea din ROFUIP, OME nr. 5726/2024, art. 34, alin. (1): „Planul de dezvoltare instituțională constituie documentul de prognoză pe termen lung și se elaborează de către o echipă coordonată de către director, pentru o perioadă de 3 – ________”.\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "10 ani.",
         "3 ani.",
@@ -575,18 +626,20 @@
         "7 ani."
       ],
       "correct": 2,
-      "model": "Termene și condiții",
+      "model": "Aplicare în context · Termene și condiții",
       "source": "ROFUIP, OME nr. 5726/2024, art. 34, alin. (1)",
       "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
       "legalText": "Planul de dezvoltare instituțională constituie documentul de prognoză pe termen lung și se elaborează de către o echipă coordonată de către director, pentru o perioadă de 3 – 5 ani.",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Cerința verifică termenul ori valoarea prevăzută expres. În fragmentul indicat, elementul care completează spațiul este „5 ani”. Restul frazei fixează contextul și condițiile; răspunsul se referă exact la această situație.",
           "Reperul cerut este: 5 ani.",
-          "Înlocuiește spațiul cu fiecare variantă: numai „5 ani” păstrează prevederea citată. Celelalte trei modifică valoarea legală și nu reproduc regula pentru această situație."
+          "Înlocuiește spațiul cu fiecare variantă: numai „5 ani” păstrează prevederea citată. Celelalte trei modifică valoarea legală și nu reproduc regula pentru această situație.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "5 ani.",
-        "trap": "Păstrează unitatea de timp și toate condițiile: zilele lucrătoare și zilele calendaristice nu se substituie.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Păstrează unitatea de timp și toate condițiile: zilele lucrătoare și zilele calendaristice nu se substituie.",
         "alternative": "Legătura de reținut: Completați prevederea din ROFUIP, OME nr. 5726/2024, art. 34, alin. (1): „Planul de dezvoltare instituțională constituie documentul de prognoză pe termen lung și se elaborează de către o echipă coordonată de către director, pentru o perioadă de 3 – ________”. → 5 ani."
       },
       "feedback": [
@@ -597,11 +650,12 @@
       ],
       "article": "34",
       "paragraph": "1",
-      "id": "t5-q18"
+      "id": "t5-q18",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "curriculum",
-      "prompt": "Care asociere redă corect celelalte trei întrebări orientative ale proiectării?",
+      "prompt": "În proiectarea și managementul curriculumului la nivelul școlii, directorul trebuie să aleagă soluția compatibilă cu Cadrul de Referință al Curriculumului Național, capitolul 10.\n\nCare asociere redă corect celelalte trei întrebări orientative ale proiectării?\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "„Cu ce?” – instrumente de evaluare; „Cum?” – derivarea competențelor; „Cât și cât de bine?” – selectarea resurselor curriculare de suport.",
         "„Cu ce?” – resurse curriculare și timp; „Cum?” – derivarea competențelor; „Cât și cât de bine?” – selectarea conținuturilor raportate la standarde.",
@@ -609,18 +663,20 @@
         "„Cu ce?” – selectarea conținuturilor; „Cum?” – succesiunea și proiectarea lecțiilor; „Cât și cât de bine?” – analiza resurselor de timp."
       ],
       "correct": 2,
-      "model": "Managementul curriculumului",
+      "model": "Aplicare în context · Managementul curriculumului",
       "source": "Cadrul de Referință al Curriculumului Național, cap. 10, OMEC nr. 4137/2026",
       "sourceUrl": "https://concursdirectori.ro/curriculum-capitolul-10/",
       "legalText": "",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Tabelul leagă resursele de „Cu ce?”, lecțiile și activitățile de „Cum?”, iar modalitățile și instrumentele de evaluare și standardele de ultima întrebare. (Materialul-sursă, p. 36) Leagă acțiunea descrisă de formarea competențelor și de nevoile reale de învățare ale elevilor.",
           "Reperul cerut este: „Cu ce?” – resurse curriculare și timp; „Cum?” – succesiunea și proiectarea lecțiilor; „Cât și cât de bine?” – evaluare raportată la standarde.",
-          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "„Cu ce?” – resurse curriculare și timp; „Cum?” – succesiunea și proiectarea lecțiilor; „Cât și cât de bine?” – evaluare raportată la standarde.",
-        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
         "alternative": "Legătura de reținut: Care asociere redă corect celelalte trei întrebări orientative ale proiectării? → „Cu ce?” – resurse curriculare și timp; „Cum?” – succesiunea și proiectarea lecțiilor; „Cât și cât de bine?” – evaluare raportată la standarde."
       },
       "feedback": [
@@ -629,11 +685,12 @@
         "Această variantă corespunde reperului din sursă: „Cu ce?” – resurse curriculare și timp; „Cum?” – succesiunea și proiectarea lecțiilor; „Cât și cât de bine?” – evaluare raportată la standarde.",
         "Această variantă nu completează relația cerută. Reperul din sursă este: „Cu ce?” – resurse curriculare și timp; „Cum?” – succesiunea și proiectarea lecțiilor; „Cât și cât de bine?” – evaluare raportată la standarde."
       ],
-      "id": "t5-q19"
+      "id": "t5-q19",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     },
     {
       "category": "bush",
-      "prompt": "De ce au școlile nevoie de ambele dimensiuni, potrivit lui Bush?",
+      "prompt": "Într-o situație de management școlar, directorul analizează comportamentul organizației prin conceptele și modelele prezentate de Tony Bush.\n\nDe ce au școlile nevoie de ambele dimensiuni, potrivit lui Bush?\n\nCare variantă corespunde corect bibliografiei și situației descrise?",
       "options": [
         "pentru a înlocui competențele cu autoritatea oficială.",
         "pentru a separa total valorile de activitățile zilnice.",
@@ -641,18 +698,20 @@
         "pentru direcția schimbării și implementarea ei eficientă."
       ],
       "correct": 3,
-      "model": "Diferența dintre leadership și management educațional",
+      "model": "Aplicare în context · Diferența dintre leadership și management educațional",
       "source": "Tony Bush, capitolul 1, secțiunea „Diferența dintre leadership și management educațional”, p. 21–22",
       "sourceUrl": "https://ccecp.github.io/Bush_1/",
       "legalText": "",
       "solution": {
         "steps": [
+          "Identifică mai întâi ce se cere efectiv: competența, condiția, excepția, ordinea procedurală sau relația dintre concepte.",
           "Întrebarea se referă la „Diferența dintre leadership și management educațional”. Răspunsul se sprijină pe ideea „pentru direcția schimbării și implementarea ei eficientă” din capitolul I (p. 21–22). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului.",
           "Reperul cerut este: pentru direcția schimbării și implementarea ei eficientă.",
-          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului."
+          "Verifică fiecare alternativă în raport cu cerința. O formulare apropiată poate schimba instituția competentă, condiția, termenul sau sensul conceptului.",
+          "Verifică integral varianta aleasă; o modificare aparent minoră a titularului, termenului, condiției sau sensului conceptului o poate face greșită."
         ],
         "rule": "pentru direcția schimbării și implementarea ei eficientă.",
-        "trap": "Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
+        "trap": "Atenție la distractorii foarte apropiați semantic, după modelul probei din 13 octombrie. Răspunde la relația cerută de întrebare; nu alege o variantă doar pentru că folosește termeni cunoscuți.",
         "alternative": "Legătura de reținut: De ce au școlile nevoie de ambele dimensiuni, potrivit lui Bush? → pentru direcția schimbării și implementarea ei eficientă."
       },
       "feedback": [
@@ -661,7 +720,22 @@
         "Această variantă nu completează relația cerută. Reperul din sursă este: pentru direcția schimbării și implementarea ei eficientă.",
         "Această variantă corespunde reperului din sursă: pentru direcția schimbării și implementarea ei eficientă."
       ],
-      "id": "t5-q20"
+      "id": "t5-q20",
+      "examStyle": "situație ipotetică școlară; aplicarea bibliografiei în context; patru variante; un singur răspuns corect"
     }
-  ]
+  ],
+  "examModel": {
+    "basis": "arhitectură cognitivă inspirată de proba din 13.10.2026, aplicată strict bibliografiei oficiale pentru 20.10.2026",
+    "durationSeconds": 3600,
+    "items": 20,
+    "distribution": {
+      "lege": 5,
+      "rofuip": 5,
+      "bush": 4,
+      "hattie": 2,
+      "profil": 2,
+      "curriculum": 2
+    },
+    "note": "Itemii sunt originali; nu reproduc subiectele oficiale."
+  }
 }
