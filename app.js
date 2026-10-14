@@ -4,7 +4,7 @@ const dialog = document.querySelector('#dialog');
 const LABELS = {lege:'Legea nr. 198/2023',rofuip:'ROFUIP',bush:'Tony Bush · cap. 1–3',hattie:'John Hattie · cap. 9',profil:'Profilul managerului școlar',curriculum:'Curriculum · cap. 10'};
 const LETTERS = ['a','b','c','d'];
 const PREFIX='directori-20oct-v1-';
-const paperLink=id=>`<a class="button secondary paper-link" href="pdfs/test-${String(id).padStart(2,'0')}.pdf">Tipărește testul + grila (PDF)</a>`;
+const paperLink=id=>`<a class="button secondary paper-link" href="pdfs/test-${String(id).padStart(2,'0')}.pdf?v=20261014c">Tipărește testul + grila (PDF)</a>`;
 let manifest=[], test=null, state=null, view='home', current=0, filter='all', storageAvailable=true;
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const load=id=>{try {const s=JSON.parse(localStorage.getItem(PREFIX+id));return s?.version===1&&Array.isArray(s.answers)&&s.answers.length===20?s:null;}catch{return null;}};
@@ -30,7 +30,7 @@ function home(){
 async function start(id,restart=false){
   const m=manifest.find(m=>m.id===id);if(!m)return;
   app.innerHTML='<div class="loading" role="status">Se încarcă simularea…</div>';
-  try{const r=await fetch(m.file);if(!r.ok)throw new Error('fetch');test=await r.json();}
+  try{const r=await fetch(m.file,{cache:"no-store"});if(!r.ok)throw new Error('fetch');test=await r.json();}
   catch{app.innerHTML='<div class="error"><h2>Testul nu a putut fi încărcat.</h2><p>Verifică conexiunea și încearcă din nou.</p><button class="button primary" data-action="home">Lista testelor</button></div>';return;}
   state=restart?null:load(id);
   if(!state){const now=Date.now();state={version:1,startedAt:now,deadline:now+test.durationSeconds*1000,answers:Array(20).fill(null),flags:Array(20).fill(false),current:0,finished:false};save();}
@@ -93,5 +93,5 @@ document.querySelector('.brand').addEventListener('click',e=>{e.preventDefault()
 setInterval(updateTimer,1000);
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)updateTimer();});
 window.addEventListener('pagehide',save);
-async function init(){try{const r=await fetch('tests/manifest.json');if(!r.ok)throw new Error('manifest');manifest=await r.json();home();}catch{app.innerHTML='<div class="error"><h2>Nu am putut încărca lista testelor.</h2><p>Reîncarcă pagina după verificarea conexiunii.</p><button class="button primary" onclick="location.reload()">Reîncarcă</button></div>';}}
+async function init(){try{const r=await fetch('tests/manifest.json',{cache:'no-store'});if(!r.ok)throw new Error('manifest');manifest=await r.json();home();}catch{app.innerHTML='<div class="error"><h2>Nu am putut încărca lista testelor.</h2><p>Reîncarcă pagina după verificarea conexiunii.</p><button class="button primary" onclick="location.reload()">Reîncarcă</button></div>';}}
 init();

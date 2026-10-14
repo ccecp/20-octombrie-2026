@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Simulare aplicativă 01 · model 13 octombrie",
+    "title": "Simulare aplicativă 01",
     "file": "tests/test-01.json",
     "models": [
       "Competențe instituționale",
@@ -18,7 +18,7 @@
   },
   {
     "id": 2,
-    "title": "Simulare aplicativă 02 · model 13 octombrie",
+    "title": "Simulare aplicativă 02",
     "file": "tests/test-02.json",
     "models": [
       "Competențe instituționale",
@@ -35,7 +35,7 @@
   },
   {
     "id": 3,
-    "title": "Simulare aplicativă 03 · model 13 octombrie",
+    "title": "Simulare aplicativă 03",
     "file": "tests/test-03.json",
     "models": [
       "Competențe instituționale",
@@ -50,7 +50,7 @@
   },
   {
     "id": 4,
-    "title": "Simulare aplicativă 04 · model 13 octombrie",
+    "title": "Simulare aplicativă 04",
     "file": "tests/test-04.json",
     "models": [
       "Profesorul și impactul asupra învățării",
@@ -66,7 +66,7 @@
   },
   {
     "id": 5,
-    "title": "Simulare aplicativă 05 · model 13 octombrie",
+    "title": "Simulare aplicativă 05",
     "file": "tests/test-05.json",
     "models": [
       "Leadershipul instruirii",
@@ -83,7 +83,7 @@
   },
   {
     "id": 6,
-    "title": "Simulare aplicativă 06 · model 13 octombrie",
+    "title": "Simulare aplicativă 06",
     "file": "tests/test-06.json",
     "models": [
       "Competențe instituționale",
@@ -99,7 +99,7 @@
   },
   {
     "id": 7,
-    "title": "Simulare aplicativă 07 · model 13 octombrie",
+    "title": "Simulare aplicativă 07",
     "file": "tests/test-07.json",
     "models": [
       "Profesorul și impactul asupra învățării",
@@ -115,7 +115,7 @@
   },
   {
     "id": 8,
-    "title": "Simulare aplicativă 08 · model 13 octombrie",
+    "title": "Simulare aplicativă 08",
     "file": "tests/test-08.json",
     "models": [
       "Leadership educațional, guvernanță instituțională și orientare strategică",
@@ -131,7 +131,7 @@
   },
   {
     "id": 9,
-    "title": "Simulare aplicativă 09 · model 13 octombrie",
+    "title": "Simulare aplicativă 09",
     "file": "tests/test-09.json",
     "models": [
       "Competențe instituționale",
@@ -147,7 +147,7 @@
   },
   {
     "id": 10,
-    "title": "Simulare aplicativă 10 · model 13 octombrie",
+    "title": "Simulare aplicativă 10",
     "file": "tests/test-10.json",
     "models": [
       "Termene și condiții",
@@ -163,7 +163,7 @@
   },
   {
     "id": 11,
-    "title": "Simulare aplicativă 11 · model 13 octombrie",
+    "title": "Simulare aplicativă 11",
     "file": "tests/test-11.json",
     "models": [
       "Ce este leadershipul educațional",
@@ -180,7 +180,7 @@
   },
   {
     "id": 12,
-    "title": "Simulare aplicativă 12 · model 13 octombrie",
+    "title": "Simulare aplicativă 12",
     "file": "tests/test-12.json",
     "models": [
       "Competențe instituționale",
@@ -197,7 +197,7 @@
   },
   {
     "id": 13,
-    "title": "Simulare aplicativă 13 · model 13 octombrie",
+    "title": "Simulare aplicativă 13",
     "file": "tests/test-13.json",
     "models": [
       "Proiectare și aplicare curriculară",
@@ -213,7 +213,7 @@
   },
   {
     "id": 14,
-    "title": "Simulare aplicativă 14 · model 13 octombrie",
+    "title": "Simulare aplicativă 14",
     "file": "tests/test-14.json",
     "models": [
       "Leadershipul și valorile",
@@ -229,7 +229,7 @@
   },
   {
     "id": 15,
-    "title": "Simulare aplicativă 15 · model 13 octombrie",
+    "title": "Simulare aplicativă 15",
     "file": "tests/test-15.json",
     "models": [
       "Competențe instituționale",
@@ -246,7 +246,7 @@
   },
   {
     "id": 16,
-    "title": "Simulare aplicativă 16 · model 13 octombrie",
+    "title": "Simulare aplicativă 16",
     "file": "tests/test-16.json",
     "models": [
       "Termene și condiții",
@@ -263,7 +263,7 @@
   },
   {
     "id": 17,
-    "title": "Simulare aplicativă 17 · model 13 octombrie",
+    "title": "Simulare aplicativă 17",
     "file": "tests/test-17.json",
     "models": [
       "Leadershipul și valorile",
@@ -279,7 +279,7 @@
   },
   {
     "id": 18,
-    "title": "Simulare aplicativă 18 · model 13 octombrie",
+    "title": "Simulare aplicativă 18",
     "file": "tests/test-18.json",
     "models": [
       "Ce este leadershipul educațional",
@@ -296,7 +296,7 @@
   },
   {
     "id": 19,
-    "title": "Simulare aplicativă 19 · model 13 octombrie",
+    "title": "Simulare aplicativă 19",
     "file": "tests/test-19.json",
     "models": [
       "Profesorul și impactul asupra învățării",
@@ -313,7 +313,7 @@
   },
   {
     "id": 20,
-    "title": "Simulare aplicativă 20 · model 13 octombrie",
+    "title": "Simulare aplicativă 20",
     "file": "tests/test-20.json",
     "models": [
       "Comunicare, relaționare, parteneriate și colaborare în comunitate",
