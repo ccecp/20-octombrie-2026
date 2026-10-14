@@ -26,10 +26,11 @@ jobs:
           node scripts/validate_content.cjs
           node --check app.js
           node scripts/test_app.cjs
+          node scripts/test_print.cjs
       - name: Pregătește fișierele publice
         run: |
           mkdir _site
-          cp index.html styles.css app.js _site/
+          cp index.html styles.css app.js print.html print.css print.js _site/
           cp -r tests _site/
       - name: Verifică activarea GitHub Pages
         id: pages
