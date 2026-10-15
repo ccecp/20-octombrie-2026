@@ -14,7 +14,7 @@ function unlockSound(){
   if(!Audio)return;
   try{
     if(!audioContext){audioContext=new Audio();audioMaster=audioContext.createGain();audioMaster.connect(audioContext.destination);}
-    audioMaster.gain.setValueAtTime(.22,audioContext.currentTime);
+    audioMaster.gain.setValueAtTime(.9,audioContext.currentTime);
     if(audioContext.state==='suspended')audioContext.resume().catch(()=>{});
   }catch{audioContext=null;audioMaster=null;}
 }
