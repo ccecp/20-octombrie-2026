@@ -4,16 +4,16 @@
     "title": "Simulare aplicativă 01",
     "file": "tests/test-01.json",
     "models": [
-      "Competențe instituționale",
-      "Ce este leadershipul educațional",
-      "Profesorul și impactul asupra învățării",
-      "Leadership educațional, guvernanță instituțională și orientare strategică",
-      "Managementul curriculumului",
-      "Managementul calității și evaluare internă",
-      "Termene și condiții",
-      "Leadershipul și valorile",
-      "Ce este managementul educațional",
-      "Stabilirea obiectivelor"
+      "Aplicare în context · Competențe instituționale",
+      "Aplicare în context · Ce este leadershipul educațional",
+      "Aplicare în context · Profesorul și impactul asupra învățării",
+      "Aplicare în context · Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Aplicare în context · Managementul curriculumului",
+      "Aplicare în context · Managementul calității și evaluare internă",
+      "Aplicare în context · Termene și condiții",
+      "Aplicare în context · Leadershipul și valorile",
+      "Aplicare în context · Ce este managementul educațional",
+      "Aplicare în context · Stabilirea obiectivelor"
     ]
   },
   {
@@ -21,16 +21,16 @@
     "title": "Simulare aplicativă 02",
     "file": "tests/test-02.json",
     "models": [
-      "Competențe instituționale",
-      "Obiective organizaționale sau individuale",
-      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
-      "Managementul curriculumului",
-      "Termene și condiții",
-      "Profesorul și impactul asupra învățării",
-      "Descentralizarea și autonomia în management",
-      "Importanța contextului educațional",
-      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
-      "Leadershipul și viziunea"
+      "Aplicare în context · Competențe instituționale",
+      "Aplicare în context · Obiective organizaționale sau individuale",
+      "Aplicare în context · Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Aplicare în context · Managementul curriculumului",
+      "Aplicare în context · Termene și condiții",
+      "Aplicare în context · Profesorul și impactul asupra învățării",
+      "Aplicare în context · Descentralizarea și autonomia în management",
+      "Aplicare în context · Importanța contextului educațional",
+      "Aplicare în context · Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Aplicare în context · Leadershipul și viziunea"
     ]
   },
   {
@@ -38,14 +38,14 @@
     "title": "Simulare aplicativă 03",
     "file": "tests/test-03.json",
     "models": [
-      "Competențe instituționale",
-      "Stabilirea obiectivelor",
-      "Managementul curriculumului",
-      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
-      "Termene și condiții",
-      "Profesorul și impactul asupra învățării",
-      "Leadershipul și valorile",
-      "Diferența dintre leadership și management educațional"
+      "Aplicare în context · Competențe instituționale",
+      "Aplicare în context · Stabilirea obiectivelor",
+      "Aplicare în context · Managementul curriculumului",
+      "Aplicare în context · Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Aplicare în context · Termene și condiții",
+      "Aplicare în context · Profesorul și impactul asupra învățării",
+      "Aplicare în context · Leadershipul și valorile",
+      "Aplicare în context · Diferența dintre leadership și management educațional"
     ]
   },
   {
@@ -53,15 +53,15 @@
     "title": "Simulare aplicativă 04",
     "file": "tests/test-04.json",
     "models": [
-      "Profesorul și impactul asupra învățării",
-      "Importanța contextului educațional",
-      "Leadershipul și viziunea",
-      "Leadershipul și valorile",
-      "Management operațional administrativ-financiar și conformitate",
-      "Competențe instituționale",
-      "Termene și condiții",
-      "Managementul curriculumului",
-      "Leadershipul ca influență"
+      "Aplicare în context · Profesorul și impactul asupra învățării",
+      "Aplicare în context · Importanța contextului educațional",
+      "Aplicare în context · Leadershipul și viziunea",
+      "Aplicare în context · Leadershipul și valorile",
+      "Aplicare în context · Management operațional administrativ-financiar și conformitate",
+      "Aplicare în context · Competențe instituționale",
+      "Aplicare în context · Termene și condiții",
+      "Aplicare în context · Managementul curriculumului",
+      "Aplicare în context · Leadershipul ca influență"
     ]
   },
   {
@@ -69,16 +69,16 @@
     "title": "Simulare aplicativă 05",
     "file": "tests/test-05.json",
     "models": [
-      "Leadershipul instruirii",
-      "Profesorul și impactul asupra învățării",
-      "Competențe instituționale",
-      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
-      "Importanța contextului educațional",
-      "Managementul curriculumului",
-      "Descentralizarea și autonomia în management",
-      "Managementul calității și evaluare internă",
-      "Termene și condiții",
-      "Diferența dintre leadership și management educațional"
+      "Aplicare în context · Leadershipul instruirii",
+      "Aplicare în context · Profesorul și impactul asupra învățării",
+      "Aplicare în context · Competențe instituționale",
+      "Aplicare în context · Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Aplicare în context · Importanța contextului educațional",
+      "Aplicare în context · Managementul curriculumului",
+      "Aplicare în context · Descentralizarea și autonomia în management",
+      "Aplicare în context · Managementul calității și evaluare internă",
+      "Aplicare în context · Termene și condiții",
+      "Aplicare în context · Diferența dintre leadership și management educațional"
     ]
   },
   {
@@ -86,15 +86,15 @@
     "title": "Simulare aplicativă 06",
     "file": "tests/test-06.json",
     "models": [
-      "Competențe instituționale",
-      "Termene și condiții",
-      "Stabilirea obiectivelor",
-      "Context, valori fundamentale și competențe transversale",
-      "Leadershipul ca influență",
-      "Profesorul și impactul asupra învățării",
-      "Managementul curriculumului",
-      "Ce este leadershipul educațional",
-      "Perspectivă cronologică asupra leadershipului"
+      "Situație aplicativă · Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Situație aplicativă · Termene și condiții",
+      "Situație aplicativă · Situație aplicativă · Stabilirea obiectivelor",
+      "Situație aplicativă · Situație aplicativă · Context, valori fundamentale și competențe transversale",
+      "Situație aplicativă · Situație aplicativă · Leadershipul ca influență",
+      "Situație aplicativă · Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Situație aplicativă · Managementul curriculumului",
+      "Situație aplicativă · Situație aplicativă · Ce este leadershipul educațional",
+      "Situație aplicativă · Situație aplicativă · Perspectivă cronologică asupra leadershipului"
     ]
   },
   {
@@ -102,15 +102,15 @@
     "title": "Simulare aplicativă 07",
     "file": "tests/test-07.json",
     "models": [
-      "Profesorul și impactul asupra învățării",
-      "Descentralizarea și autonomia în management",
-      "Managementul calității și evaluare internă",
-      "Managementul curriculumului",
-      "Management operațional administrativ-financiar și conformitate",
-      "Competențe instituționale",
-      "Obiectivele formale",
-      "Leadershipul și viziunea",
-      "Termene și condiții"
+      "Situație aplicativă · Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Situație aplicativă · Descentralizarea și autonomia în management",
+      "Situație aplicativă · Situație aplicativă · Managementul calității și evaluare internă",
+      "Situație aplicativă · Situație aplicativă · Managementul curriculumului",
+      "Situație aplicativă · Situație aplicativă · Management operațional administrativ-financiar și conformitate",
+      "Situație aplicativă · Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Situație aplicativă · Obiectivele formale",
+      "Situație aplicativă · Situație aplicativă · Leadershipul și viziunea",
+      "Situație aplicativă · Situație aplicativă · Termene și condiții"
     ]
   },
   {
@@ -118,15 +118,15 @@
     "title": "Simulare aplicativă 08",
     "file": "tests/test-08.json",
     "models": [
-      "Leadership educațional, guvernanță instituțională și orientare strategică",
-      "Descentralizarea și autonomia în management",
-      "Competențe instituționale",
-      "Leadershipul instruirii",
-      "Profesorul și impactul asupra învățării",
-      "Managementul curriculumului",
-      "Management operațional administrativ-financiar și conformitate",
-      "Importanța contextului educațional",
-      "Termene și condiții"
+      "Situație aplicativă · Situație aplicativă · Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Situație aplicativă · Situație aplicativă · Descentralizarea și autonomia în management",
+      "Situație aplicativă · Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Situație aplicativă · Leadershipul instruirii",
+      "Situație aplicativă · Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Situație aplicativă · Managementul curriculumului",
+      "Situație aplicativă · Situație aplicativă · Management operațional administrativ-financiar și conformitate",
+      "Situație aplicativă · Situație aplicativă · Importanța contextului educațional",
+      "Situație aplicativă · Situație aplicativă · Termene și condiții"
     ]
   },
   {
@@ -134,15 +134,15 @@
     "title": "Simulare aplicativă 09",
     "file": "tests/test-09.json",
     "models": [
-      "Competențe instituționale",
-      "Termene și condiții",
-      "Management operațional administrativ-financiar și conformitate",
-      "Managementul curriculumului",
-      "Ce este leadershipul educațional",
-      "Leadershipul ca influență",
-      "Profesorul și impactul asupra învățării",
-      "Ce este managementul educațional",
-      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice"
+      "Situație aplicativă · Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Situație aplicativă · Termene și condiții",
+      "Situație aplicativă · Situație aplicativă · Management operațional administrativ-financiar și conformitate",
+      "Situație aplicativă · Situație aplicativă · Managementul curriculumului",
+      "Situație aplicativă · Situație aplicativă · Ce este leadershipul educațional",
+      "Situație aplicativă · Situație aplicativă · Leadershipul ca influență",
+      "Situație aplicativă · Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Situație aplicativă · Ce este managementul educațional",
+      "Situație aplicativă · Situație aplicativă · Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice"
     ]
   },
   {
@@ -150,15 +150,15 @@
     "title": "Simulare aplicativă 10",
     "file": "tests/test-10.json",
     "models": [
-      "Termene și condiții",
-      "Competențe instituționale",
-      "Managementul curriculumului",
-      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
-      "Profesorul și impactul asupra învățării",
-      "Leadershipul și viziunea",
-      "Perspectivă cronologică asupra leadershipului",
-      "Descentralizarea și autonomia în management",
-      "Leadership educațional, guvernanță instituțională și orientare strategică"
+      "Situație aplicativă · Situație aplicativă · Termene și condiții",
+      "Situație aplicativă · Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Situație aplicativă · Managementul curriculumului",
+      "Situație aplicativă · Situație aplicativă · Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Situație aplicativă · Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Situație aplicativă · Leadershipul și viziunea",
+      "Situație aplicativă · Situație aplicativă · Perspectivă cronologică asupra leadershipului",
+      "Situație aplicativă · Situație aplicativă · Descentralizarea și autonomia în management",
+      "Situație aplicativă · Situație aplicativă · Leadership educațional, guvernanță instituțională și orientare strategică"
     ]
   },
   {
@@ -166,16 +166,16 @@
     "title": "Simulare aplicativă 11",
     "file": "tests/test-11.json",
     "models": [
-      "Ce este leadershipul educațional",
-      "Competențe instituționale",
-      "Ce este managementul educațional",
-      "Profesorul și impactul asupra învățării",
-      "Proiectare și aplicare curriculară",
-      "Stabilirea obiectivelor",
-      "Perspectivă cronologică asupra leadershipului",
-      "Context, valori fundamentale și competențe transversale",
-      "Termene și condiții",
-      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice"
+      "Situație aplicativă · Ce este leadershipul educațional",
+      "Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Ce este managementul educațional",
+      "Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Proiectare și aplicare curriculară",
+      "Situație aplicativă · Stabilirea obiectivelor",
+      "Situație aplicativă · Perspectivă cronologică asupra leadershipului",
+      "Situație aplicativă · Context, valori fundamentale și competențe transversale",
+      "Situație aplicativă · Termene și condiții",
+      "Situație aplicativă · Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice"
     ]
   },
   {
@@ -183,16 +183,16 @@
     "title": "Simulare aplicativă 12",
     "file": "tests/test-12.json",
     "models": [
-      "Competențe instituționale",
-      "Proiectare și aplicare curriculară",
-      "Leadershipul instruirii",
-      "Diferența dintre leadership și management educațional",
-      "Profesorul și impactul asupra învățării",
-      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
-      "Leadership educațional, guvernanță instituțională și orientare strategică",
-      "Termene și condiții",
-      "Obiectivele formale",
-      "Ce este leadershipul educațional"
+      "Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Proiectare și aplicare curriculară",
+      "Situație aplicativă · Leadershipul instruirii",
+      "Situație aplicativă · Diferența dintre leadership și management educațional",
+      "Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Situație aplicativă · Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Situație aplicativă · Termene și condiții",
+      "Situație aplicativă · Obiectivele formale",
+      "Situație aplicativă · Ce este leadershipul educațional"
     ]
   },
   {
@@ -200,15 +200,15 @@
     "title": "Simulare aplicativă 13",
     "file": "tests/test-13.json",
     "models": [
-      "Proiectare și aplicare curriculară",
-      "Profesorul și impactul asupra învățării",
-      "Obiective organizaționale sau individuale",
-      "Competențe instituționale",
-      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
-      "Stabilirea obiectivelor",
-      "Leadership educațional, guvernanță instituțională și orientare strategică",
-      "Termene și condiții",
-      "Leadershipul instruirii"
+      "Situație aplicativă · Proiectare și aplicare curriculară",
+      "Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Obiective organizaționale sau individuale",
+      "Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Situație aplicativă · Stabilirea obiectivelor",
+      "Situație aplicativă · Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Situație aplicativă · Termene și condiții",
+      "Situație aplicativă · Leadershipul instruirii"
     ]
   },
   {
@@ -216,15 +216,15 @@
     "title": "Simulare aplicativă 14",
     "file": "tests/test-14.json",
     "models": [
-      "Leadershipul și valorile",
-      "Competențe instituționale",
-      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
-      "Proiectare și aplicare curriculară",
-      "Leadershipul și viziunea",
-      "Profesorul și impactul asupra învățării",
-      "Ce este leadershipul educațional",
-      "Importanța contextului educațional",
-      "Termene și condiții"
+      "Situație aplicativă · Leadershipul și valorile",
+      "Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Situație aplicativă · Proiectare și aplicare curriculară",
+      "Situație aplicativă · Leadershipul și viziunea",
+      "Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Ce este leadershipul educațional",
+      "Situație aplicativă · Importanța contextului educațional",
+      "Situație aplicativă · Termene și condiții"
     ]
   },
   {
@@ -232,16 +232,16 @@
     "title": "Simulare aplicativă 15",
     "file": "tests/test-15.json",
     "models": [
-      "Competențe instituționale",
-      "Profesorul și impactul asupra învățării",
-      "Proiectare și aplicare curriculară",
-      "Obiectivele formale",
-      "Obiective organizaționale sau individuale",
-      "Leadershipul instruirii",
-      "Termene și condiții",
-      "Context, valori fundamentale și competențe transversale",
-      "Diferența dintre leadership și management educațional",
-      "Managementul calității și evaluare internă"
+      "Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Proiectare și aplicare curriculară",
+      "Situație aplicativă · Obiectivele formale",
+      "Situație aplicativă · Obiective organizaționale sau individuale",
+      "Situație aplicativă · Leadershipul instruirii",
+      "Situație aplicativă · Termene și condiții",
+      "Situație aplicativă · Context, valori fundamentale și competențe transversale",
+      "Situație aplicativă · Diferența dintre leadership și management educațional",
+      "Situație aplicativă · Managementul calității și evaluare internă"
     ]
   },
   {
@@ -249,16 +249,16 @@
     "title": "Simulare aplicativă 16",
     "file": "tests/test-16.json",
     "models": [
-      "Termene și condiții",
-      "Competențe instituționale",
-      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
-      "Importanța contextului educațional",
-      "Leadershipul instruirii",
-      "Leadershipul și viziunea",
-      "Profesorul și impactul asupra învățării",
-      "Proiectare și aplicare curriculară",
-      "Ce este leadershipul educațional",
-      "Managementul calității și evaluare internă"
+      "Situație aplicativă · Termene și condiții",
+      "Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Situație aplicativă · Importanța contextului educațional",
+      "Situație aplicativă · Leadershipul instruirii",
+      "Situație aplicativă · Leadershipul și viziunea",
+      "Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Proiectare și aplicare curriculară",
+      "Situație aplicativă · Ce este leadershipul educațional",
+      "Situație aplicativă · Managementul calității și evaluare internă"
     ]
   },
   {
@@ -266,15 +266,15 @@
     "title": "Simulare aplicativă 17",
     "file": "tests/test-17.json",
     "models": [
-      "Leadershipul și valorile",
-      "Proiectare și aplicare curriculară",
-      "Competențe instituționale",
-      "Profesorul și impactul asupra învățării",
-      "Leadershipul ca influență",
-      "Ce este managementul educațional",
-      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
-      "Managementul calității și evaluare internă",
-      "Termene și condiții"
+      "Situație aplicativă · Leadershipul și valorile",
+      "Situație aplicativă · Proiectare și aplicare curriculară",
+      "Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Leadershipul ca influență",
+      "Situație aplicativă · Ce este managementul educațional",
+      "Situație aplicativă · Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Situație aplicativă · Managementul calității și evaluare internă",
+      "Situație aplicativă · Termene și condiții"
     ]
   },
   {
@@ -282,16 +282,16 @@
     "title": "Simulare aplicativă 18",
     "file": "tests/test-18.json",
     "models": [
-      "Ce este leadershipul educațional",
-      "Proiectare și aplicare curriculară",
-      "Termene și condiții",
-      "Profesorul și impactul asupra învățării",
-      "Competențe instituționale",
-      "Leadershipul și viziunea",
-      "Nivel funcțional și complementaritatea cu profilul cadrului didactic",
-      "Obiectivele formale",
-      "Obiective organizaționale sau individuale",
-      "Managementul calității și evaluare internă"
+      "Situație aplicativă · Ce este leadershipul educațional",
+      "Situație aplicativă · Proiectare și aplicare curriculară",
+      "Situație aplicativă · Termene și condiții",
+      "Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Leadershipul și viziunea",
+      "Situație aplicativă · Nivel funcțional și complementaritatea cu profilul cadrului didactic",
+      "Situație aplicativă · Obiectivele formale",
+      "Situație aplicativă · Obiective organizaționale sau individuale",
+      "Situație aplicativă · Managementul calității și evaluare internă"
     ]
   },
   {
@@ -299,16 +299,16 @@
     "title": "Simulare aplicativă 19",
     "file": "tests/test-19.json",
     "models": [
-      "Profesorul și impactul asupra învățării",
-      "Management operațional administrativ-financiar și conformitate",
-      "Termene și condiții",
-      "Competențe instituționale",
-      "Proiectare și aplicare curriculară",
-      "Ce este managementul educațional",
-      "Obiectivele formale",
-      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
-      "Perspectivă cronologică asupra leadershipului",
-      "Leadershipul și viziunea"
+      "Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Management operațional administrativ-financiar și conformitate",
+      "Situație aplicativă · Termene și condiții",
+      "Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Proiectare și aplicare curriculară",
+      "Situație aplicativă · Ce este managementul educațional",
+      "Situație aplicativă · Obiectivele formale",
+      "Situație aplicativă · Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Situație aplicativă · Perspectivă cronologică asupra leadershipului",
+      "Situație aplicativă · Leadershipul și viziunea"
     ]
   },
   {
@@ -316,16 +316,353 @@
     "title": "Simulare aplicativă 20",
     "file": "tests/test-20.json",
     "models": [
-      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
-      "Profesorul și impactul asupra învățării",
-      "Termene și condiții",
+      "Situație aplicativă · Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Situație aplicativă · Profesorul și impactul asupra învățării",
+      "Situație aplicativă · Termene și condiții",
+      "Situație aplicativă · Proiectare și aplicare curriculară",
+      "Situație aplicativă · Competențe instituționale",
+      "Situație aplicativă · Stabilirea obiectivelor",
+      "Situație aplicativă · Perspectivă cronologică asupra leadershipului",
+      "Situație aplicativă · Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Situație aplicativă · Obiective organizaționale sau individuale",
+      "Situație aplicativă · Leadershipul instruirii"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Simulare aprofundată 21",
+    "file": "tests/test-21.json",
+    "models": [
       "Proiectare și aplicare curriculară",
-      "Competențe instituționale",
-      "Stabilirea obiectivelor",
-      "Perspectivă cronologică asupra leadershipului",
+      "Teorie și practică",
+      "Context, valori fundamentale și competențe transversale",
+      "Aplicarea prevederii legale",
+      "Management operațional administrativ-financiar și conformitate",
+      "Modele formale",
+      "Profesorul și impactul asupra învățării",
+      "Ce este managementul educațional",
+      "Leadershipul și valorile",
+      "Managementul curriculumului"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Simulare aprofundată 22",
+    "file": "tests/test-22.json",
+    "models": [
+      "Teorie și practică",
+      "Aplicarea prevederii legale",
+      "Managementul calității și evaluare internă",
+      "Proiectare și aplicare curriculară",
+      "Diferența dintre leadership și management educațional",
+      "Profesorul și impactul asupra învățării",
+      "Modele formale",
+      "Managementul curriculumului",
       "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Stabilirea obiectivelor"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Simulare aprofundată 23",
+    "file": "tests/test-23.json",
+    "models": [
+      "Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Aplicarea prevederii legale",
+      "Profesorul și impactul asupra învățării",
+      "Managementul curriculumului",
+      "Modele formale",
+      "Proiectare și aplicare curriculară",
+      "Diferența dintre leadership și management educațional",
+      "Teorie și practică",
+      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Obiective organizaționale sau individuale"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Simulare aprofundată 24",
+    "file": "tests/test-24.json",
+    "models": [
+      "Profesorul și impactul asupra învățării",
+      "Aplicarea prevederii legale",
+      "Proiectare și aplicare curriculară",
+      "Managementul curriculumului",
+      "Modele formale",
+      "Ce este managementul educațional",
+      "Context, valori fundamentale și competențe transversale",
+      "Teorie și practică",
+      "Diferența dintre leadership și management educațional",
+      "Managementul calității și evaluare internă"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Simulare aprofundată 25",
+    "file": "tests/test-25.json",
+    "models": [
+      "Profesorul și impactul asupra învățării",
+      "Teorie și practică",
+      "Managementul curriculumului",
+      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Aplicarea prevederii legale",
       "Obiective organizaționale sau individuale",
-      "Leadershipul instruirii"
+      "Managementul calității și evaluare internă",
+      "Leadershipul ca influență",
+      "Proiectare și aplicare curriculară",
+      "Modele formale"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Simulare aprofundată 26",
+    "file": "tests/test-26.json",
+    "models": [
+      "Aplicarea prevederii legale",
+      "Teorie și practică",
+      "Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Management operațional administrativ-financiar și conformitate",
+      "Managementul curriculumului",
+      "Proiectare și aplicare curriculară",
+      "Profesorul și impactul asupra învățării",
+      "Leadershipul ca influență",
+      "Obiective organizaționale sau individuale",
+      "Modele formale"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Simulare aprofundată 27",
+    "file": "tests/test-27.json",
+    "models": [
+      "Aplicarea prevederii legale",
+      "Ce este managementul educațional",
+      "Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Managementul curriculumului",
+      "Leadershipul și viziunea",
+      "Teorie și practică",
+      "Modele formale",
+      "Profesorul și impactul asupra învățării",
+      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Proiectare și aplicare curriculară"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Simulare aprofundată 28",
+    "file": "tests/test-28.json",
+    "models": [
+      "Aplicarea prevederii legale",
+      "Proiectare și aplicare curriculară",
+      "Profesorul și impactul asupra învățării",
+      "Leadershipul ca influență",
+      "Teorie și practică",
+      "Managementul curriculumului",
+      "Management operațional administrativ-financiar și conformitate",
+      "Modele formale",
+      "Descentralizarea și autonomia în management",
+      "Context, valori fundamentale și competențe transversale"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Simulare aprofundată 29",
+    "file": "tests/test-29.json",
+    "models": [
+      "Aplicarea prevederii legale",
+      "Managementul calității și evaluare internă",
+      "Profesorul și impactul asupra învățării",
+      "Obiectivele formale",
+      "Teorie și practică",
+      "Managementul curriculumului",
+      "Context, valori fundamentale și competențe transversale",
+      "Proiectare și aplicare curriculară",
+      "Modele formale",
+      "Ce este managementul educațional"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Simulare aprofundată 30",
+    "file": "tests/test-30.json",
+    "models": [
+      "Aplicarea prevederii legale",
+      "Obiective organizaționale sau individuale",
+      "Management operațional administrativ-financiar și conformitate",
+      "Modele formale",
+      "Proiectare și aplicare curriculară",
+      "Profesorul și impactul asupra învățării",
+      "Teorie și practică",
+      "Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Managementul curriculumului",
+      "Ce este leadershipul educațional"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Simulare aprofundată 31",
+    "file": "tests/test-31.json",
+    "models": [
+      "Proiectare și aplicare curriculară",
+      "Aplicarea prevederii legale",
+      "Modele formale",
+      "Teorie și practică",
+      "Diferența dintre leadership și management educațional",
+      "Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Profesorul și impactul asupra învățării",
+      "Managementul curriculumului",
+      "Management operațional administrativ-financiar și conformitate"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Simulare aprofundată 32",
+    "file": "tests/test-32.json",
+    "models": [
+      "Aplicarea prevederii legale",
+      "Teorie și practică",
+      "Modele formale",
+      "Profesorul și impactul asupra învățării",
+      "Managementul curriculumului",
+      "Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Obiectivele formale",
+      "Proiectare și aplicare curriculară",
+      "Ce este leadershipul educațional"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Simulare aprofundată 33",
+    "file": "tests/test-33.json",
+    "models": [
+      "Management operațional administrativ-financiar și conformitate",
+      "Aplicarea prevederii legale",
+      "Managementul calității și evaluare internă",
+      "Obiectivele formale",
+      "Managementul curriculumului",
+      "Teorie și practică",
+      "Profesorul și impactul asupra învățării",
+      "Proiectare și aplicare curriculară",
+      "Modele formale",
+      "Obiective organizaționale sau individuale"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Simulare aprofundată 34",
+    "file": "tests/test-34.json",
+    "models": [
+      "Aplicarea prevederii legale",
+      "Managementul calității și evaluare internă",
+      "Managementul curriculumului",
+      "Proiectare și aplicare curriculară",
+      "Profesorul și impactul asupra învățării",
+      "Context, valori fundamentale și competențe transversale",
+      "Ce este managementul educațional",
+      "Obiectivele formale",
+      "Modele formale",
+      "Teorie și practică"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Simulare aprofundată 35",
+    "file": "tests/test-35.json",
+    "models": [
+      "Aplicarea prevederii legale",
+      "Proiectare și aplicare curriculară",
+      "Modele formale",
+      "Profesorul și impactul asupra învățării",
+      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Managementul curriculumului",
+      "Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Ce este managementul educațional",
+      "Stabilirea obiectivelor",
+      "Teorie și practică"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Simulare aprofundată 36",
+    "file": "tests/test-36.json",
+    "models": [
+      "Proiectare și aplicare curriculară",
+      "Managementul curriculumului, al proceselor de învățare și evaluare, dezvoltarea profesională a cadrelor didactice",
+      "Aplicarea prevederii legale",
+      "Managementul curriculumului",
+      "Managementul calității și evaluare internă",
+      "Profesorul și impactul asupra învățării",
+      "Diferența dintre leadership și management educațional",
+      "Modele formale",
+      "Teorie și practică"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Simulare aprofundată 37",
+    "file": "tests/test-37.json",
+    "models": [
+      "Aplicarea prevederii legale",
+      "Leadershipul instruirii",
+      "Profesorul și impactul asupra învățării",
+      "Leadershipul ca influență",
+      "Context, valori fundamentale și competențe transversale",
+      "Managementul curriculumului",
+      "Comunicare, relaționare, parteneriate și colaborare în comunitate",
+      "Teorie și practică",
+      "Proiectare și aplicare curriculară",
+      "Modele formale"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Simulare aprofundată 38",
+    "file": "tests/test-38.json",
+    "models": [
+      "Aplicarea prevederii legale",
+      "Proiectare și aplicare curriculară",
+      "Profesorul și impactul asupra învățării",
+      "Management operațional administrativ-financiar și conformitate",
+      "Obiective organizaționale sau individuale",
+      "Context, valori fundamentale și competențe transversale",
+      "Leadershipul și valorile",
+      "Teorie și practică",
+      "Modele formale",
+      "Managementul curriculumului"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Simulare aprofundată 39",
+    "file": "tests/test-39.json",
+    "models": [
+      "Management operațional administrativ-financiar și conformitate",
+      "Teorie și practică",
+      "Diferența dintre leadership și management educațional",
+      "Modele formale",
+      "Managementul curriculumului",
+      "Aplicarea prevederii legale",
+      "Stabilirea obiectivelor",
+      "Profesorul și impactul asupra învățării",
+      "Managementul calității și evaluare internă",
+      "Proiectare și aplicare curriculară"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Simulare aprofundată 40",
+    "file": "tests/test-40.json",
+    "models": [
+      "Leadershipul și viziunea",
+      "Aplicarea prevederii legale",
+      "Managementul curriculumului",
+      "Proiectare și aplicare curriculară",
+      "Teorie și practică",
+      "Management operațional administrativ-financiar și conformitate",
+      "Leadership educațional, guvernanță instituțională și orientare strategică",
+      "Profesorul și impactul asupra învățării",
+      "Stabilirea obiectivelor",
+      "Modele formale"
     ]
   }
 ]

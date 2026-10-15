@@ -1,0 +1,697 @@
+{
+  "id": 39,
+  "title": "Simulare aprofundată 39",
+  "durationSeconds": 3600,
+  "questions": [
+    {
+      "category": "profil",
+      "model": "Management operațional administrativ-financiar și conformitate",
+      "source": "Profilul profesional al managerului școlar, OMEC nr. 3934/2026; Management operațional administrativ-financiar și conformitate",
+      "sourceUrl": "https://www.isj.tm.edu.ro/public/data_files/specializari/fisier-7876.pdf",
+      "legalText": "",
+      "prompt": "După schimbarea accesului în clădire, planurile de criză păstrează traseele anterioare. Ce acțiune managerială este necesară potrivit profilului profesional?",
+      "options": [
+        "Planurile pentru situații de criză se păstrează neschimbate pentru continuitatea documentară.",
+        "Planurile pentru situații de criză sunt înlocuite cu comunicări informale între participanți.",
+        "Planurile pentru situații de criză sunt revizuite numai după epuizarea resurselor financiare.",
+        "Planurile pentru situații de criză trebuie actualizate periodic potrivit evoluției situației."
+      ],
+      "originKey": "profil:22",
+      "correct": 3,
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Management operațional administrativ-financiar și conformitate. Reperul de verificare este Profilul profesional al managerului școlar, OMEC nr. 3934/2026; Management operațional administrativ-financiar și conformitate.",
+          "Profilul descrie competențe demonstrate prin comportamente profesionale. Pentru această cerință, reperul este „actualizate periodic”. Identifică mai întâi acțiunea cerută și domeniul ei; nu o confunda cu o activitate apropiată din alt domeniu. Aplicarea la situație conduce la concluzia: Planurile pentru situații de criză trebuie actualizate periodic potrivit evoluției situației.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Planurile pentru situații de criză trebuie actualizate periodic potrivit evoluției situației.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Planurile pentru situații de criză trebuie actualizate periodic potrivit evoluției situației.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Profilul profesional al managerului școlar, OMEC nr. 3934/2026; Management operațional administrativ-financiar și conformitate. Profilul descrie competențe demonstrate prin comportamente profesionale. Pentru această cerință, reperul este „actualizate periodic”. Identifică mai întâi acțiunea cerută și domeniul ei; nu o confunda cu o activitate apropiată din alt domeniu. Aplicarea la situație conduce la concluzia: Planurile pentru situații de criză trebuie actualizate periodic potrivit evoluției situației."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Planurile pentru situații de criză trebuie actualizate periodic potrivit evoluției situației.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Planurile pentru situații de criză trebuie actualizate periodic potrivit evoluției situației.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Planurile pentru situații de criză trebuie actualizate periodic potrivit evoluției situației.",
+        "Corect. Profilul descrie competențe demonstrate prin comportamente profesionale. Pentru această cerință, reperul este „actualizate periodic”. Identifică mai întâi acțiunea cerută și domeniul ei; nu o confunda cu o activitate apropiată din alt domeniu. Aplicarea la situație conduce la concluzia: Planurile pentru situații de criză trebuie actualizate periodic potrivit evoluției situației."
+      ],
+      "id": "t39-q1"
+    },
+    {
+      "category": "bush",
+      "model": "Teorie și practică",
+      "source": "Tony Bush, capitolul 2, secțiunea 2.2, p. 39",
+      "sourceUrl": "https://ccecp.github.io/Bush_1/",
+      "legalText": "",
+      "prompt": "Un director interpretează o situație nouă folosind repere formate în școlile unde a lucrat. Cum influențează preconcepțiile deciziile practicienilor în analiza capitolului?",
+      "options": [
+        "Preconcepțiile elimină orice legătură dintre experiența profesională și deciziile manageriale actuale.",
+        "Preconcepțiile garantează interpretarea complet neutră a faptelor și a relațiilor organizaționale.",
+        "Preconcepțiile înlătură necesitatea reflecției asupra particularităților contextului în care conduce directorul.",
+        "Preconcepțiile oferă puncte de referință formate prin experiența profesională anterioară."
+      ],
+      "originKey": "bush:2.2:2",
+      "correct": 3,
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Teorie și practică. Reperul de verificare este Tony Bush, capitolul 2, secțiunea 2.2, p. 39.",
+          "În sursă, relația verificată este formulată astfel: „oferă puncte de referință formate prin experiență”. În situația descrisă, această idee conduce la concluzia: Preconcepțiile oferă puncte de referință formate prin experiența profesională anterioară.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Preconcepțiile oferă puncte de referință formate prin experiența profesională anterioară.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Preconcepțiile oferă puncte de referință formate prin experiența profesională anterioară.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Tony Bush, capitolul 2, secțiunea 2.2, p. 39. În sursă, relația verificată este formulată astfel: „oferă puncte de referință formate prin experiență”. În situația descrisă, această idee conduce la concluzia: Preconcepțiile oferă puncte de referință formate prin experiența profesională anterioară."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Preconcepțiile oferă puncte de referință formate prin experiența profesională anterioară.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Preconcepțiile oferă puncte de referință formate prin experiența profesională anterioară.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Preconcepțiile oferă puncte de referință formate prin experiența profesională anterioară.",
+        "Corect. În sursă, relația verificată este formulată astfel: „oferă puncte de referință formate prin experiență”. În situația descrisă, această idee conduce la concluzia: Preconcepțiile oferă puncte de referință formate prin experiența profesională anterioară."
+      ],
+      "id": "t39-q2"
+    },
+    {
+      "category": "bush",
+      "model": "Diferența dintre leadership și management educațional",
+      "source": "Tony Bush, capitolul 1, secțiunea „Diferența dintre leadership și management educațional”, p. 21",
+      "sourceUrl": "https://ccecp.github.io/Bush_1/",
+      "legalText": "",
+      "prompt": "Școala introduce o inovație, dar orarul, resursele și activitățile curente trebuie să funcționeze eficient. Cu ce asociază Cuban această responsabilitate?",
+      "options": [
+        "Influența informală elimină necesitatea administrării resurselor curente ale instituției.",
+        "Leadershipul exclude responsabilitatea pentru continuitatea activităților curente din instituție.",
+        "Managementul susține menținerea eficienței activităților curente din instituție.",
+        "Viziunea substituie organizarea concretă a activităților obișnuite din instituție."
+      ],
+      "originKey": "bush:81",
+      "correct": 2,
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Diferența dintre leadership și management educațional. Reperul de verificare este Tony Bush, capitolul 1, secțiunea „Diferența dintre leadership și management educațional”, p. 21.",
+          "Întrebarea se referă la „Diferența dintre leadership și management educațional”. Răspunsul se sprijină pe ideea „menținerea eficienței activităților curente” din capitolul I (p. 21). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului. Aplicarea la situație conduce la concluzia: Managementul susține menținerea eficienței activităților curente din instituție.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Managementul susține menținerea eficienței activităților curente din instituție.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Managementul susține menținerea eficienței activităților curente din instituție.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Tony Bush, capitolul 1, secțiunea „Diferența dintre leadership și management educațional”, p. 21. Întrebarea se referă la „Diferența dintre leadership și management educațional”. Răspunsul se sprijină pe ideea „menținerea eficienței activităților curente” din capitolul I (p. 21). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului. Aplicarea la situație conduce la concluzia: Managementul susține menținerea eficienței activităților curente din instituție."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Managementul susține menținerea eficienței activităților curente din instituție.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Managementul susține menținerea eficienței activităților curente din instituție.",
+        "Corect. Întrebarea se referă la „Diferența dintre leadership și management educațional”. Răspunsul se sprijină pe ideea „menținerea eficienței activităților curente” din capitolul I (p. 21). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului. Aplicarea la situație conduce la concluzia: Managementul susține menținerea eficienței activităților curente din instituție.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Managementul susține menținerea eficienței activităților curente din instituție."
+      ],
+      "id": "t39-q3"
+    },
+    {
+      "category": "bush",
+      "model": "Modele formale",
+      "source": "Tony Bush, capitolul 3, secțiunea 3.1, p. 57–59",
+      "sourceUrl": "https://ccecp.github.io/Bush_1/",
+      "legalText": "",
+      "prompt": "O analiză examinează relațiile oficiale dintre persoane și repartizarea formală a rolurilor în școală. Ce dimensiune a organizației este investigată în sensul capitolului?",
+      "options": [
+        "Cultura informală reprezintă exclusiv repartizarea oficială a rolurilor organizației.",
+        "Delegarea participativă reprezintă totalitatea autorităților naționale aflate în exteriorul organizației.",
+        "Mediul extern reprezintă dimensiunea formală a relațiilor dintre oamenii organizației.",
+        "Structura reprezintă dimensiunea formală a relațiilor dintre oamenii organizației."
+      ],
+      "originKey": "bush:3.1:0",
+      "correct": 3,
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Modele formale. Reperul de verificare este Tony Bush, capitolul 3, secțiunea 3.1, p. 57–59.",
+          "În sursă, relația verificată este formulată astfel: „dimensiunea formală a relațiilor dintre oameni”. În situația descrisă, această idee conduce la concluzia: Structura reprezintă dimensiunea formală a relațiilor dintre oamenii organizației.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Structura reprezintă dimensiunea formală a relațiilor dintre oamenii organizației.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Structura reprezintă dimensiunea formală a relațiilor dintre oamenii organizației.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Tony Bush, capitolul 3, secțiunea 3.1, p. 57–59. În sursă, relația verificată este formulată astfel: „dimensiunea formală a relațiilor dintre oameni”. În situația descrisă, această idee conduce la concluzia: Structura reprezintă dimensiunea formală a relațiilor dintre oamenii organizației."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Structura reprezintă dimensiunea formală a relațiilor dintre oamenii organizației.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Structura reprezintă dimensiunea formală a relațiilor dintre oamenii organizației.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Structura reprezintă dimensiunea formală a relațiilor dintre oamenii organizației.",
+        "Corect. În sursă, relația verificată este formulată astfel: „dimensiunea formală a relațiilor dintre oameni”. În situația descrisă, această idee conduce la concluzia: Structura reprezintă dimensiunea formală a relațiilor dintre oamenii organizației."
+      ],
+      "id": "t39-q4"
+    },
+    {
+      "category": "curriculum",
+      "prompt": "În urma monitorizării, inspectorul constată diferențe între curriculumul prevăzut și cel aplicat. El pregătește o intervenție de consiliere pentru echipa școlii. Ce ansamblu de roluri revine inspectorului școlar ca specialist în managementul curriculumului?",
+      "options": [
+        "Consilierea echipelor și profesorilor, coerența dintre curriculumul oficial și aplicat, instrumente relevante pentru competențe și monitorizare prin dialog profesional.",
+        "Consilierea echipelor și profesorilor, identitatea documentelor tuturor școlilor, instrumente centrate pe inventariere și monitorizare prin raportare administrativă.",
+        "Elaborarea ofertei fiecărei școli, repartizarea opțiunilor elevilor, instrumente centrate pe orar și monitorizare prin aprobarea proiectelor de lecție.",
+        "Elaborarea unităților de învățare, alegerea conținuturilor lecțiilor, instrumente centrate pe manual și monitorizare prin înlocuirea consilierii cu verificarea."
+      ],
+      "correct": 0,
+      "model": "Managementul curriculumului",
+      "source": "Cadrul de Referință al Curriculumului Național, cap. 10, OMEC nr. 4137/2026",
+      "sourceUrl": "https://concursdirectori.ro/curriculum-capitolul-10/",
+      "legalText": "",
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Managementul curriculumului. Reperul de verificare este Cadrul de Referință al Curriculumului Național, cap. 10, OMEC nr. 4137/2026.",
+          "Inspectorul consiliază proiectarea, implementarea și evaluarea CN, asigură coerența și dezvoltă, selectează și aplică instrumente de monitorizare adecvate. (Materialul-sursă, p. 39) Leagă acțiunea descrisă de formarea competențelor și de nevoile reale de învățare ale elevilor.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Consilierea echipelor și profesorilor, coerența dintre curriculumul oficial și aplicat, instrumente relevante pentru competențe și monitorizare prin dialog profesional.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Consilierea echipelor și profesorilor, coerența dintre curriculumul oficial și aplicat, instrumente relevante pentru competențe și monitorizare prin dialog profesional.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Cadrul de Referință al Curriculumului Național, cap. 10, OMEC nr. 4137/2026. Inspectorul consiliază proiectarea, implementarea și evaluarea CN, asigură coerența și dezvoltă, selectează și aplică instrumente de monitorizare adecvate. (Materialul-sursă, p. 39) Leagă acțiunea descrisă de formarea competențelor și de nevoile reale de învățare ale elevilor."
+      },
+      "feedback": [
+        "Corect. Inspectorul consiliază proiectarea, implementarea și evaluarea CN, asigură coerența și dezvoltă, selectează și aplică instrumente de monitorizare adecvate. (Materialul-sursă, p. 39) Leagă acțiunea descrisă de formarea competențelor și de nevoile reale de învățare ale elevilor.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Consilierea echipelor și profesorilor, coerența dintre curriculumul oficial și aplicat, instrumente relevante pentru competențe și monitorizare prin dialog profesional.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Consilierea echipelor și profesorilor, coerența dintre curriculumul oficial și aplicat, instrumente relevante pentru competențe și monitorizare prin dialog profesional.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Consilierea echipelor și profesorilor, coerența dintre curriculumul oficial și aplicat, instrumente relevante pentru competențe și monitorizare prin dialog profesional."
+      ],
+      "originKey": "curriculum:18",
+      "id": "t39-q5"
+    },
+    {
+      "category": "rofuip",
+      "prompt": "În cadrul unei verificări, trebuie completată și aplicată exact următoarea prevedere din ROFUIP, OME nr. 5726/2024, art. 128: „Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al ________”. Care dintre enunțurile de mai jos o redă corect, păstrând toate condițiile?",
+      "options": [
+        "Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al directorului unității de învățământ.",
+        "Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al ministrului educației.",
+        "Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al președintelui consiliului județean.",
+        "Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al primarului."
+      ],
+      "correct": 1,
+      "model": "Aplicarea prevederii legale",
+      "source": "ROFUIP, OME nr. 5726/2024, art. 128",
+      "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
+      "legalText": "Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al ministrului educației.",
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Aplicarea prevederii legale. Reperul de verificare este ROFUIP, OME nr. 5726/2024, art. 128.",
+          "Fragmentul verificat precizează: Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al ministrului educației. Elementul decisiv din această comparație este „ministrului educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al ministrului educației.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al ministrului educației.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: ROFUIP, OME nr. 5726/2024, art. 128. Fragmentul verificat precizează: Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al ministrului educației. Elementul decisiv din această comparație este „ministrului educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al ministrului educației.",
+        "Corect. Fragmentul verificat precizează: Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al ministrului educației. Elementul decisiv din această comparație este „ministrului educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al ministrului educației.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Organizarea unor examinări în vederea înscrierii beneficiarilor primari în clasa pregătitoare este permisă pentru unitățile de învățământ cu profil artistic și cu profil sportiv, în vederea testării aptitudinilor specifice, în baza metodologiei de înscriere în învățământul primar aprobate prin ordin al ministrului educației."
+      ],
+      "article": "128",
+      "paragraph": null,
+      "id": "t39-q6"
+    },
+    {
+      "category": "rofuip",
+      "prompt": "În cadrul unei verificări, trebuie completată și aplicată exact următoarea prevedere din ROFUIP, OME nr. 5726/2024, art. 25, alin. (13): „________ al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare”. Care dintre enunțurile de mai jos o redă corect, păstrând toate condițiile?",
+      "options": [
+        "Directorul adjunct al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare.",
+        "Directorul unității de învățământ al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare.",
+        "Profesorul diriginte al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare.",
+        "Secretarul unității de învățământ al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare."
+      ],
+      "correct": 0,
+      "model": "Aplicarea prevederii legale",
+      "source": "ROFUIP, OME nr. 5726/2024, art. 25, alin. (13)",
+      "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
+      "legalText": "Directorul adjunct al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare.",
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Aplicarea prevederii legale. Reperul de verificare este ROFUIP, OME nr. 5726/2024, art. 25, alin. (13).",
+          "Fragmentul verificat precizează: Directorul adjunct al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare. Elementul decisiv din această comparație este „Directorul adjunct”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Directorul adjunct al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Directorul adjunct al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: ROFUIP, OME nr. 5726/2024, art. 25, alin. (13). Fragmentul verificat precizează: Directorul adjunct al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare. Elementul decisiv din această comparație este „Directorul adjunct”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      },
+      "feedback": [
+        "Corect. Fragmentul verificat precizează: Directorul adjunct al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare. Elementul decisiv din această comparație este „Directorul adjunct”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Directorul adjunct al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Directorul adjunct al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Directorul adjunct al unității de învățământ particular poate fi eliberat din funcție prin decizia persoanei juridice fondatoare."
+      ],
+      "article": "25",
+      "paragraph": "13",
+      "id": "t39-q7"
+    },
+    {
+      "category": "lege",
+      "prompt": "În cadrul unei verificări, trebuie completată și aplicată exact următoarea prevedere din Legea nr. 198/2023, art. 87, alin. (3): „În conformitate cu metodologia, ________ încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat”. Care dintre enunțurile de mai jos o redă corect, păstrând toate condițiile?",
+      "options": [
+        "În conformitate cu metodologia, Consiliul de administrație încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat.",
+        "În conformitate cu metodologia, Guvernul încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat.",
+        "În conformitate cu metodologia, Inspectoratul școlar încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat.",
+        "În conformitate cu metodologia, Ministerul Educației încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat."
+      ],
+      "correct": 3,
+      "model": "Aplicarea prevederii legale",
+      "source": "Legea nr. 198/2023, art. 87, alin. (3)",
+      "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
+      "legalText": "În conformitate cu metodologia, Ministerul Educației încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat.",
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Aplicarea prevederii legale. Reperul de verificare este Legea nr. 198/2023, art. 87, alin. (3).",
+          "Fragmentul verificat precizează: În conformitate cu metodologia, Ministerul Educației încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat. Elementul decisiv din această comparație este „Ministerul Educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: În conformitate cu metodologia, Ministerul Educației încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "În conformitate cu metodologia, Ministerul Educației încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Legea nr. 198/2023, art. 87, alin. (3). Fragmentul verificat precizează: În conformitate cu metodologia, Ministerul Educației încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat. Elementul decisiv din această comparație este „Ministerul Educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: În conformitate cu metodologia, Ministerul Educației încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: În conformitate cu metodologia, Ministerul Educației încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: În conformitate cu metodologia, Ministerul Educației încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat.",
+        "Corect. Fragmentul verificat precizează: În conformitate cu metodologia, Ministerul Educației încheie protocoale de colaborare cu cultele religioase recunoscute oficial de stat. Elementul decisiv din această comparație este „Ministerul Educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      ],
+      "article": "87",
+      "paragraph": "3",
+      "id": "t39-q8"
+    },
+    {
+      "category": "lege",
+      "prompt": "În cadrul unei verificări, trebuie completată și aplicată exact următoarea prevedere din Legea nr. 198/2023, art. 58, alin. (12): „Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al ________”. Care dintre enunțurile de mai jos o redă corect, păstrând toate condițiile?",
+      "options": [
+        "Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al directorului unității de învățământ.",
+        "Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al ministrului educației.",
+        "Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al președintelui consiliului județean.",
+        "Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al primarului."
+      ],
+      "correct": 1,
+      "model": "Aplicarea prevederii legale",
+      "source": "Legea nr. 198/2023, art. 58, alin. (12)",
+      "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
+      "legalText": "Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al ministrului educației.",
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Aplicarea prevederii legale. Reperul de verificare este Legea nr. 198/2023, art. 58, alin. (12).",
+          "Fragmentul verificat precizează: Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al ministrului educației. Elementul decisiv din această comparație este „ministrului educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al ministrului educației.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al ministrului educației.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Legea nr. 198/2023, art. 58, alin. (12). Fragmentul verificat precizează: Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al ministrului educației. Elementul decisiv din această comparație este „ministrului educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al ministrului educației.",
+        "Corect. Fragmentul verificat precizează: Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al ministrului educației. Elementul decisiv din această comparație este „ministrului educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al ministrului educației.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Admiterea în învățământul postliceal se face în conformitate cu criteriile generale stabilite prin ordin al ministrului educației."
+      ],
+      "article": "58",
+      "paragraph": "12",
+      "id": "t39-q9"
+    },
+    {
+      "category": "bush",
+      "model": "Stabilirea obiectivelor",
+      "source": "Tony Bush, capitolul 1, secțiunea „Stabilirea obiectivelor”, p. 16",
+      "sourceUrl": "https://ccecp.github.io/Bush_1/",
+      "legalText": "",
+      "prompt": "Directorul analizează o politică națională prin valorile educaționale asumate de școală. Ce constatare a lui Gold și a colaboratorilor este ilustrată?",
+      "options": [
+        "Liderii pot elimina integral orice obligație guvernamentală prin afirmarea valorilor proprii.",
+        "Liderii pot filtra politicile guvernamentale prin valorile asumate de școală.",
+        "Liderii transferă automat toate deciziile către guvern după formularea unei politici.",
+        "Liderii trebuie să renunțe la scopurile morale pentru a aplica politicile publice."
+      ],
+      "originKey": "bush:35",
+      "correct": 1,
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Stabilirea obiectivelor. Reperul de verificare este Tony Bush, capitolul 1, secțiunea „Stabilirea obiectivelor”, p. 16.",
+          "Întrebarea se referă la „Stabilirea obiectivelor”. Răspunsul se sprijină pe ideea „filtrarea politicilor guvernamentale prin valorile școlii” din capitolul I (p. 16). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului. Aplicarea la situație conduce la concluzia: Liderii pot filtra politicile guvernamentale prin valorile asumate de școală.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Liderii pot filtra politicile guvernamentale prin valorile asumate de școală.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Liderii pot filtra politicile guvernamentale prin valorile asumate de școală.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Tony Bush, capitolul 1, secțiunea „Stabilirea obiectivelor”, p. 16. Întrebarea se referă la „Stabilirea obiectivelor”. Răspunsul se sprijină pe ideea „filtrarea politicilor guvernamentale prin valorile școlii” din capitolul I (p. 16). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului. Aplicarea la situație conduce la concluzia: Liderii pot filtra politicile guvernamentale prin valorile asumate de școală."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Liderii pot filtra politicile guvernamentale prin valorile asumate de școală.",
+        "Corect. Întrebarea se referă la „Stabilirea obiectivelor”. Răspunsul se sprijină pe ideea „filtrarea politicilor guvernamentale prin valorile școlii” din capitolul I (p. 16). Observă ce relație este cerută: definiție, scop, caracteristică sau limită a modelului. Varianta corectă păstrează această relație, nu doar vocabularul capitolului. Aplicarea la situație conduce la concluzia: Liderii pot filtra politicile guvernamentale prin valorile asumate de școală.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Liderii pot filtra politicile guvernamentale prin valorile asumate de școală.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Liderii pot filtra politicile guvernamentale prin valorile asumate de școală."
+      ],
+      "id": "t39-q10"
+    },
+    {
+      "category": "hattie",
+      "model": "Profesorul și impactul asupra învățării",
+      "source": "John Hattie, Învățarea vizibilă, cap. 9, p. 242–243",
+      "sourceUrl": "https://concursdirectori.ro/hattie-invatarea-vizibila-capitolul-9-profesorul/",
+      "legalText": "",
+      "prompt": "O sinteză arată efecte generale mici pentru formarea inițială, dar unele programe au rezultate bune. Ce reacție respectă poziția lui Hattie?",
+      "options": [
+        "Se înlocuiește pregătirea inițială cu vechimea dobândită ulterior în activitatea școlară.",
+        "Se păstrează toate programele deoarece existența lor este suficientă pentru eficiență.",
+        "Se renunță la evaluarea programelor deoarece media generală este deja cunoscută.",
+        "Se studiază programele cu succes demonstrat pentru a ameliora pregătirea inițială."
+      ],
+      "originKey": "hattie:18",
+      "correct": 3,
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Profesorul și impactul asupra învățării. Reperul de verificare este John Hattie, Învățarea vizibilă, cap. 9, p. 242–243.",
+          "Un efect general mic nu justifică respingerea întregului domeniu. Sunt necesare dovezi despre programele eficace și ajustarea lor în funcție de rezultate. Aplicarea la situație conduce la concluzia: Se studiază programele cu succes demonstrat pentru a ameliora pregătirea inițială.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Se studiază programele cu succes demonstrat pentru a ameliora pregătirea inițială.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Se studiază programele cu succes demonstrat pentru a ameliora pregătirea inițială.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: John Hattie, Învățarea vizibilă, cap. 9, p. 242–243. Un efect general mic nu justifică respingerea întregului domeniu. Sunt necesare dovezi despre programele eficace și ajustarea lor în funcție de rezultate. Aplicarea la situație conduce la concluzia: Se studiază programele cu succes demonstrat pentru a ameliora pregătirea inițială."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Se studiază programele cu succes demonstrat pentru a ameliora pregătirea inițială.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Se studiază programele cu succes demonstrat pentru a ameliora pregătirea inițială.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Se studiază programele cu succes demonstrat pentru a ameliora pregătirea inițială.",
+        "Corect. Un efect general mic nu justifică respingerea întregului domeniu. Sunt necesare dovezi despre programele eficace și ajustarea lor în funcție de rezultate. Aplicarea la situație conduce la concluzia: Se studiază programele cu succes demonstrat pentru a ameliora pregătirea inițială."
+      ],
+      "id": "t39-q11"
+    },
+    {
+      "category": "lege",
+      "prompt": "În cadrul unei verificări, trebuie completată și aplicată exact următoarea prevedere din Legea nr. 198/2023, art. 21, alin. (9): „În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, ________ va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare”. Care dintre enunțurile de mai jos o redă corect, păstrând toate condițiile?",
+      "options": [
+        "În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Consiliul de administrație va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare.",
+        "În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Guvernul va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare.",
+        "În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Inspectoratul școlar va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare.",
+        "În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Ministerul Educației va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare."
+      ],
+      "correct": 3,
+      "model": "Aplicarea prevederii legale",
+      "source": "Legea nr. 198/2023, art. 21, alin. (9)",
+      "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
+      "legalText": "În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Ministerul Educației va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare.",
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Aplicarea prevederii legale. Reperul de verificare este Legea nr. 198/2023, art. 21, alin. (9).",
+          "Fragmentul verificat precizează: În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Ministerul Educației va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare. Elementul decisiv din această comparație este „Ministerul Educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Ministerul Educației va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Ministerul Educației va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Legea nr. 198/2023, art. 21, alin. (9). Fragmentul verificat precizează: În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Ministerul Educației va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare. Elementul decisiv din această comparație este „Ministerul Educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Ministerul Educației va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Ministerul Educației va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Ministerul Educației va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare.",
+        "Corect. Fragmentul verificat precizează: În vederea sporirii oportunităților de dezvoltare a unităților de învățământ din medii defavorizate, montane, rurale și/sau izolate, precum și pentru a reduce riscul de abandon și eșec școlar, Ministerul Educației va crea mecanisme de stimulare a participării unor astfel de unități de învățământ în cadrul consorțiilor școlare. Elementul decisiv din această comparație este „Ministerul Educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      ],
+      "article": "21",
+      "paragraph": "9",
+      "id": "t39-q12"
+    },
+    {
+      "category": "profil",
+      "model": "Managementul calității și evaluare internă",
+      "source": "Profilul profesional al managerului școlar, OMEC nr. 3934/2026; Managementul calității și evaluare internă",
+      "sourceUrl": "https://www.isj.tm.edu.ro/public/data_files/specializari/fisier-7876.pdf",
+      "legalText": "",
+      "prompt": "Școala implementează măsuri de incluziune și dorește să știe dacă acestea funcționează. Asupra căror dimensiuni trebuie monitorizat impactul potrivit profilului profesional?",
+      "options": [
+        "Impactul este urmărit asupra participării și rezultatelor elevilor vizați de măsuri.",
+        "Impactul este urmărit exclusiv asupra numărului documentelor produse pentru raportarea măsurilor.",
+        "Impactul este urmărit exclusiv asupra participării profesorilor la ședințele de lansare.",
+        "Impactul este urmărit exclusiv asupra vizibilității publice a echipei care implementează măsurile."
+      ],
+      "originKey": "profil:36",
+      "correct": 0,
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Managementul calității și evaluare internă. Reperul de verificare este Profilul profesional al managerului școlar, OMEC nr. 3934/2026; Managementul calității și evaluare internă.",
+          "Profilul descrie competențe demonstrate prin comportamente profesionale. Pentru această cerință, reperul este „participării și rezultatelor elevilor”. Identifică mai întâi acțiunea cerută și domeniul ei; nu o confunda cu o activitate apropiată din alt domeniu. Aplicarea la situație conduce la concluzia: Impactul este urmărit asupra participării și rezultatelor elevilor vizați de măsuri.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Impactul este urmărit asupra participării și rezultatelor elevilor vizați de măsuri.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Impactul este urmărit asupra participării și rezultatelor elevilor vizați de măsuri.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Profilul profesional al managerului școlar, OMEC nr. 3934/2026; Managementul calității și evaluare internă. Profilul descrie competențe demonstrate prin comportamente profesionale. Pentru această cerință, reperul este „participării și rezultatelor elevilor”. Identifică mai întâi acțiunea cerută și domeniul ei; nu o confunda cu o activitate apropiată din alt domeniu. Aplicarea la situație conduce la concluzia: Impactul este urmărit asupra participării și rezultatelor elevilor vizați de măsuri."
+      },
+      "feedback": [
+        "Corect. Profilul descrie competențe demonstrate prin comportamente profesionale. Pentru această cerință, reperul este „participării și rezultatelor elevilor”. Identifică mai întâi acțiunea cerută și domeniul ei; nu o confunda cu o activitate apropiată din alt domeniu. Aplicarea la situație conduce la concluzia: Impactul este urmărit asupra participării și rezultatelor elevilor vizați de măsuri.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Impactul este urmărit asupra participării și rezultatelor elevilor vizați de măsuri.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Impactul este urmărit asupra participării și rezultatelor elevilor vizați de măsuri.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Impactul este urmărit asupra participării și rezultatelor elevilor vizați de măsuri."
+      ],
+      "id": "t39-q13"
+    },
+    {
+      "category": "hattie",
+      "model": "Profesorul și impactul asupra învățării",
+      "source": "John Hattie, Învățarea vizibilă, cap. 9, p. 247",
+      "sourceUrl": "https://concursdirectori.ro/hattie-invatarea-vizibila-capitolul-9-profesorul/",
+      "legalText": "",
+      "prompt": "După primele aplicări ale strategiei, profesorul întâmpină dificultăți și discută datele cu coachul. Ce acțiune corespunde etapei de îmbunătățire?",
+      "options": [
+        "Coachul menține intervenția neschimbată chiar când datele indică nevoia unei ajustări.",
+        "Coachul retrage sprijinul imediat ce profesorul întâmpină prima dificultate de aplicare.",
+        "Coachul susține adaptarea intervenției până când obiectivul de învățare este atins.",
+        "Coachul verifică exclusiv numărul întâlnirilor, considerând obiectivul implicit realizat prin participare."
+      ],
+      "originKey": "hattie:29",
+      "correct": 2,
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Profesorul și impactul asupra învățării. Reperul de verificare este John Hattie, Învățarea vizibilă, cap. 9, p. 247.",
+          "Îmbunătățirea presupune sprijin și ajustare, nu rigiditate. Obiectivul rămâne reperul pentru verificarea progresului. Aplicarea la situație conduce la concluzia: Coachul susține adaptarea intervenției până când obiectivul de învățare este atins.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Coachul susține adaptarea intervenției până când obiectivul de învățare este atins.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Coachul susține adaptarea intervenției până când obiectivul de învățare este atins.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: John Hattie, Învățarea vizibilă, cap. 9, p. 247. Îmbunătățirea presupune sprijin și ajustare, nu rigiditate. Obiectivul rămâne reperul pentru verificarea progresului. Aplicarea la situație conduce la concluzia: Coachul susține adaptarea intervenției până când obiectivul de învățare este atins."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Coachul susține adaptarea intervenției până când obiectivul de învățare este atins.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Coachul susține adaptarea intervenției până când obiectivul de învățare este atins.",
+        "Corect. Îmbunătățirea presupune sprijin și ajustare, nu rigiditate. Obiectivul rămâne reperul pentru verificarea progresului. Aplicarea la situație conduce la concluzia: Coachul susține adaptarea intervenției până când obiectivul de învățare este atins.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Coachul susține adaptarea intervenției până când obiectivul de învățare este atins."
+      ],
+      "id": "t39-q14"
+    },
+    {
+      "category": "rofuip",
+      "prompt": "În cadrul unei verificări, trebuie completată și aplicată exact următoarea prevedere din ROFUIP, OME nr. 5726/2024, art. 117: „În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, ________ al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare”. Care dintre enunțurile de mai jos o redă corect, păstrând toate condițiile?",
+      "options": [
+        "În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul de administrație al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare.",
+        "În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul profesoral al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare.",
+        "În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul reprezentativ al părinților al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare.",
+        "În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul școlar al elevilor al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare."
+      ],
+      "correct": 0,
+      "model": "Aplicarea prevederii legale",
+      "source": "ROFUIP, OME nr. 5726/2024, art. 117",
+      "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
+      "legalText": "În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul de administrație al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare.",
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Aplicarea prevederii legale. Reperul de verificare este ROFUIP, OME nr. 5726/2024, art. 117.",
+          "Fragmentul verificat precizează: În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul de administrație al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare. Elementul decisiv din această comparație este „consiliul de administrație”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul de administrație al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul de administrație al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: ROFUIP, OME nr. 5726/2024, art. 117. Fragmentul verificat precizează: În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul de administrație al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare. Elementul decisiv din această comparație este „consiliul de administrație”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      },
+      "feedback": [
+        "Corect. Fragmentul verificat precizează: În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul de administrație al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare. Elementul decisiv din această comparație este „consiliul de administrație”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul de administrație al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul de administrație al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: În situația în care un cadru didactic refuză să participe la examenul pentru încheierea situației școlare sau la examenul de corigență, consiliul de administrație al unității de învățământ, cu avizul inspectorului școlar de specialitate, va desemna un alt cadru didactic care să facă parte din comisia de examinare."
+      ],
+      "article": "117",
+      "paragraph": null,
+      "id": "t39-q15"
+    },
+    {
+      "category": "rofuip",
+      "prompt": "În cadrul unei verificări, trebuie completată și aplicată exact următoarea prevedere din ROFUIP, OME nr. 5726/2024, art. 167: „________/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți”. Care dintre enunțurile de mai jos o redă corect, păstrând toate condițiile?",
+      "options": [
+        "Consiliul de administrație/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți.",
+        "Consiliul profesoral/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți.",
+        "Consiliul reprezentativ al părinților/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți.",
+        "Consiliul școlar al elevilor/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți."
+      ],
+      "correct": 2,
+      "model": "Aplicarea prevederii legale",
+      "source": "ROFUIP, OME nr. 5726/2024, art. 167",
+      "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
+      "legalText": "Consiliul reprezentativ al părinților/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți.",
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Aplicarea prevederii legale. Reperul de verificare este ROFUIP, OME nr. 5726/2024, art. 167.",
+          "Fragmentul verificat precizează: Consiliul reprezentativ al părinților/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți. Elementul decisiv din această comparație este „Consiliul reprezentativ al părinților”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Consiliul reprezentativ al părinților/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Consiliul reprezentativ al părinților/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: ROFUIP, OME nr. 5726/2024, art. 167. Fragmentul verificat precizează: Consiliul reprezentativ al părinților/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți. Elementul decisiv din această comparație este „Consiliul reprezentativ al părinților”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Consiliul reprezentativ al părinților/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Consiliul reprezentativ al părinților/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți.",
+        "Corect. Fragmentul verificat precizează: Consiliul reprezentativ al părinților/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți. Elementul decisiv din această comparație este „Consiliul reprezentativ al părinților”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Consiliul reprezentativ al părinților/reprezentanților legali este întrunit statutar în prezența a două treimi din numărul total al membrilor, iar hotărârile se adoptă prin vot deschis, cu majoritatea simplă a voturilor celor prezenți."
+      ],
+      "article": "167",
+      "paragraph": null,
+      "id": "t39-q16"
+    },
+    {
+      "category": "rofuip",
+      "prompt": "În cadrul unei verificări, trebuie completată și aplicată exact următoarea prevedere din ROFUIP, OME nr. 5726/2024, art. 128: „Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al ________”. Care dintre enunțurile de mai jos o redă corect, păstrând toate condițiile?",
+      "options": [
+        "Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al directorului unității de învățământ.",
+        "Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al ministrului educației.",
+        "Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al președintelui consiliului județean.",
+        "Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al primarului."
+      ],
+      "correct": 1,
+      "model": "Aplicarea prevederii legale",
+      "source": "ROFUIP, OME nr. 5726/2024, art. 128",
+      "sourceUrl": "https://concursdirectori.ro/rofuip-regulamentul-de-organizare-si-functionare-a-unitatilor-de-invatamant-preuniversitar/",
+      "legalText": "Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al ministrului educației.",
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Aplicarea prevederii legale. Reperul de verificare este ROFUIP, OME nr. 5726/2024, art. 128.",
+          "Fragmentul verificat precizează: Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al ministrului educației. Elementul decisiv din această comparație este „ministrului educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al ministrului educației.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al ministrului educației.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: ROFUIP, OME nr. 5726/2024, art. 128. Fragmentul verificat precizează: Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al ministrului educației. Elementul decisiv din această comparație este „ministrului educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al ministrului educației.",
+        "Corect. Fragmentul verificat precizează: Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al ministrului educației. Elementul decisiv din această comparație este „ministrului educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al ministrului educației.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Organizarea în unitățile de învățământ a examenelor de admitere în învățământul liceal sau profesional, inclusiv învățământ profesional și tehnic dual, precum și a examenelor și evaluărilor naționale se face conform metodologiilor aprobate prin ordin al ministrului educației."
+      ],
+      "article": "128",
+      "paragraph": null,
+      "id": "t39-q17"
+    },
+    {
+      "category": "lege",
+      "prompt": "În cadrul unei verificări, trebuie completată și aplicată exact următoarea prevedere din Legea nr. 198/2023, art. 71, alin. (6): „În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, ________, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale”. Care dintre enunțurile de mai jos o redă corect, păstrând toate condițiile?",
+      "options": [
+        "În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Consiliul de administrație, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale.",
+        "În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Guvernul, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale.",
+        "În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Inspectoratul școlar, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale.",
+        "În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Ministerul Educației, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale."
+      ],
+      "correct": 3,
+      "model": "Aplicarea prevederii legale",
+      "source": "Legea nr. 198/2023, art. 71, alin. (6)",
+      "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
+      "legalText": "În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Ministerul Educației, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale.",
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Aplicarea prevederii legale. Reperul de verificare este Legea nr. 198/2023, art. 71, alin. (6).",
+          "Fragmentul verificat precizează: În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Ministerul Educației, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale. Elementul decisiv din această comparație este „Ministerul Educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Ministerul Educației, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Ministerul Educației, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Legea nr. 198/2023, art. 71, alin. (6). Fragmentul verificat precizează: În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Ministerul Educației, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale. Elementul decisiv din această comparație este „Ministerul Educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Ministerul Educației, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Ministerul Educației, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Ministerul Educației, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale.",
+        "Corect. Fragmentul verificat precizează: În vederea obținerii unei calificări și a integrării în viața activă a tinerilor cu cerințe educaționale speciale, Ministerul Educației, împreună cu Ministerul Muncii și Solidarității Sociale, organizează ateliere protejate, care pot fi oferite și de furnizori publici și privați de servicii sociale acreditați sau întreprinderi sociale. Elementul decisiv din această comparație este „Ministerul Educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      ],
+      "article": "71",
+      "paragraph": "6",
+      "id": "t39-q18"
+    },
+    {
+      "category": "curriculum",
+      "model": "Proiectare și aplicare curriculară",
+      "source": "Cadrul de Referință al Curriculumului Național, cap. 10, OMEC nr. 4137/2026",
+      "sourceUrl": "https://concursdirectori.ro/curriculum-capitolul-10/",
+      "legalText": "",
+      "prompt": "Comisia verifică dacă o probă de evaluare arată ce pot face elevii cu ceea ce au învățat. Ce reper trebuie să ghideze instrumentele de evaluare?",
+      "options": [
+        "Instrumentele trebuie să fie relevante pentru competențele urmărite prin curriculum.",
+        "Instrumentele trebuie să măsoare exclusiv volumul documentelor elaborate de profesori.",
+        "Instrumentele trebuie să privilegieze exclusiv reproducerea ordinii conținuturilor din manual.",
+        "Instrumentele trebuie să reflecte exclusiv numărul activităților extracurriculare ale școlii."
+      ],
+      "originKey": "curriculum:31",
+      "correct": 0,
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Proiectare și aplicare curriculară. Reperul de verificare este Cadrul de Referință al Curriculumului Național, cap. 10, OMEC nr. 4137/2026.",
+          "Autonomia profesorului se exercită în raport cu învățarea reală a elevilor. Adaptarea urmărește progresul în competențe și păstrează finalitățile curriculumului. Aplicarea la situație conduce la concluzia: Instrumentele trebuie să fie relevante pentru competențele urmărite prin curriculum.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Instrumentele trebuie să fie relevante pentru competențele urmărite prin curriculum.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Instrumentele trebuie să fie relevante pentru competențele urmărite prin curriculum.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Cadrul de Referință al Curriculumului Național, cap. 10, OMEC nr. 4137/2026. Autonomia profesorului se exercită în raport cu învățarea reală a elevilor. Adaptarea urmărește progresul în competențe și păstrează finalitățile curriculumului. Aplicarea la situație conduce la concluzia: Instrumentele trebuie să fie relevante pentru competențele urmărite prin curriculum."
+      },
+      "feedback": [
+        "Corect. Autonomia profesorului se exercită în raport cu învățarea reală a elevilor. Adaptarea urmărește progresul în competențe și păstrează finalitățile curriculumului. Aplicarea la situație conduce la concluzia: Instrumentele trebuie să fie relevante pentru competențele urmărite prin curriculum.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Instrumentele trebuie să fie relevante pentru competențele urmărite prin curriculum.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Instrumentele trebuie să fie relevante pentru competențele urmărite prin curriculum.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Instrumentele trebuie să fie relevante pentru competențele urmărite prin curriculum."
+      ],
+      "id": "t39-q19"
+    },
+    {
+      "category": "lege",
+      "prompt": "În cadrul unei verificări, trebuie completată și aplicată exact următoarea prevedere din Legea nr. 198/2023, art. 38, alin. (3): „Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de ________, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației”. Care dintre enunțurile de mai jos o redă corect, păstrând toate condițiile?",
+      "options": [
+        "Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Consiliul de administrație, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației.",
+        "Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Guvernul, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației.",
+        "Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Inspectoratul școlar, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației.",
+        "Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Ministerul Educației, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației."
+      ],
+      "correct": 3,
+      "model": "Aplicarea prevederii legale",
+      "source": "Legea nr. 198/2023, art. 38, alin. (3)",
+      "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/271896",
+      "legalText": "Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Ministerul Educației, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației.",
+      "solution": {
+        "steps": [
+          "Identificăm relația cerută în situație: Aplicarea prevederii legale. Reperul de verificare este Legea nr. 198/2023, art. 38, alin. (3).",
+          "Fragmentul verificat precizează: Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Ministerul Educației, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației. Elementul decisiv din această comparație este „Ministerul Educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător.",
+          "Aplicăm reperul la cerință. Formularea care păstrează relația verificată este: Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Ministerul Educației, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației.",
+          "Comparăm toate cele patru variante cu acest reper. O formulare apropiată poate schimba titularul, condiția, scopul sau raportul dintre concepte; această schimbare trebuie verificată înainte de alegerea răspunsului."
+        ],
+        "rule": "Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Ministerul Educației, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației.",
+        "trap": "Păstrează toate condițiile și distincțiile din sursă; o formulare familiară nu este suficientă dacă schimbă sensul regulii.",
+        "alternative": "Verificare directă: Legea nr. 198/2023, art. 38, alin. (3). Fragmentul verificat precizează: Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Ministerul Educației, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației. Elementul decisiv din această comparație este „Ministerul Educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      },
+      "feedback": [
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Ministerul Educației, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Ministerul Educației, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației.",
+        "Această formulare nu păstrează reperul cerut. Compar-o cu regula verificată: Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Ministerul Educației, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației.",
+        "Corect. Fragmentul verificat precizează: Planurile-cadru de învățământ pentru învățământul liceal militar se elaborează de Ministerul Educației, în colaborare cu Ministerul Apărării Naționale, și sunt aprobate prin ordin al ministrului educației. Elementul decisiv din această comparație este „Ministerul Educației”; celelalte variante îl înlocuiesc, deși restul prevederii este asemănător."
+      ],
+      "article": "38",
+      "paragraph": "3",
+      "id": "t39-q20"
+    }
+  ]
+}

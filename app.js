@@ -4,6 +4,55 @@ const dialog = document.querySelector('#dialog');
 const LABELS = {lege:'Legea nr. 198/2023',rofuip:'ROFUIP',bush:'Tony Bush · cap. 1–3',hattie:'John Hattie · cap. 9',profil:'Profilul managerului școlar',curriculum:'Curriculum · cap. 10'};
 const LETTERS = ['a','b','c','d'];
 const PREFIX='directori-20oct-v1-';
+const SOUND_KEY='directori-timer-sound-v1';
+let soundEnabled=true, audioContext=null, audioMaster=null, audioLastSecond=-1;
+try{soundEnabled=localStorage.getItem(SOUND_KEY)!=='off';}catch{}
+function soundControl(){return `<button class="button secondary sound-toggle" data-action="sound" aria-pressed="${soundEnabled}" title="Tic-tic discret și semnal sonar la fiecare 3 minute">${soundEnabled?'Sunet pornit':'Sunet oprit'}<small>Tic-tic · sonar la 3 minute</small></button>`;}
+function unlockSound(){
+  if(!soundEnabled)return;
+  const Audio=window.AudioContext||window.webkitAudioContext;
+  if(!Audio)return;
+  try{
+    if(!audioContext){audioContext=new Audio();audioMaster=audioContext.createGain();audioMaster.connect(audioContext.destination);}
+    audioMaster.gain.setValueAtTime(.22,audioContext.currentTime);
+    if(audioContext.state==='suspended')audioContext.resume().catch(()=>{});
+  }catch{audioContext=null;audioMaster=null;}
+}
+function silenceSound(){if(audioContext&&audioMaster)audioMaster.gain.setValueAtTime(0,audioContext.currentTime);audioLastSecond=-1;}
+function timerTone(frequency,duration,volume,offset=0,sonar=false){
+  if(!audioContext||audioContext.state!=='running'||!audioMaster)return;
+  const start=audioContext.currentTime+offset;
+  const oscillator=audioContext.createOscillator(),gain=audioContext.createGain();
+  oscillator.type='sine';oscillator.frequency.setValueAtTime(frequency,start);
+  if(sonar)oscillator.frequency.exponentialRampToValueAtTime(frequency*.72,start+duration);
+  gain.gain.setValueAtTime(.0001,start);
+  gain.gain.exponentialRampToValueAtTime(volume,start+.004);
+  gain.gain.exponentialRampToValueAtTime(.0001,start+duration);
+  oscillator.connect(gain);gain.connect(audioMaster);
+  oscillator.start(start);oscillator.stop(start+duration+.01);
+  oscillator.onended=()=>{oscillator.disconnect();gain.disconnect();};
+}
+function updateTimerSound(){
+  if(!soundEnabled||!state||state.finished||!['question','review'].includes(view)||document.hidden)return;
+  const second=Math.floor(Date.now()/1000);
+  if(second===audioLastSecond)return;audioLastSecond=second;
+  const elapsed=Math.max(0,Math.floor((Date.now()-state.startedAt)/1000)),block=Math.floor(elapsed/180);
+  if(state.lastSonarBlock===undefined){state.lastSonarBlock=block;save();}
+  if(block>state.lastSonarBlock&&remaining()>0){
+    state.lastSonarBlock=block;save();
+    timerTone(1450,.55,.30,0,true);timerTone(1100,.42,.15,.40,true);
+  }else{
+    timerTone(1250,.023,.08);timerTone(850,.023,.06,.12);
+  }
+}
+function toggleSound(){
+  soundEnabled=!soundEnabled;
+  try{localStorage.setItem(SOUND_KEY,soundEnabled?'on':'off');}catch{}
+  if(soundEnabled){unlockSound();if(state){state.lastSonarBlock=Math.floor(Math.max(0,Date.now()-state.startedAt)/180000);save();}timerTone(1100,.10,.15);}
+  else silenceSound();
+  const button=document.querySelector('[data-action="sound"]');
+  if(button){button.outerHTML=soundControl();}
+}
 const paperLink=id=>`<a class="button secondary paper-link" href="pdfs/test-${String(id).padStart(2,'0')}.pdf?v=20261014c">Tipărește testul + grila (PDF)</a>`;
 let manifest=[], test=null, state=null, view='home', current=0, filter='all', storageAvailable=true;
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -22,12 +71,14 @@ function openDialog(title,body,yes,callback){
   if(!dialog.open)dialog.showModal();
 }
 function home(){
+  silenceSound();
   view='home';
   const states=manifest.map(m=>load(m.id)); const complete=states.filter(s=>s?.finished).length;
-  app.innerHTML=`<section class="hero"><div><span class="eyebrow">PROBA SCRISĂ · 20 OCTOMBRIE 2026</span><h1>Consolidează cunoștințele.<br><span>Pregătește reușita.</span></h1><p>20 de simulări, cu management și legislație școlară, cu rezolvări explicate pas cu pas. Lucrezi în ritmul examenului, apoi înveți din fiecare răspuns.</p><button class="button yellow" data-action="start" data-id="${states.findIndex(s=>!s?.finished)+1||1}">Continuă pregătirea →</button></div><aside class="hero-side"><h2>Structura fiecărui test</h2><div class="structure"><div><strong>5</strong><span>Legea 198</span></div><div><strong>5</strong><span>ROFUIP</span></div><div><strong>4</strong><span>Bush</span></div><div><strong>2</strong><span>Hattie</span></div><div><strong>2</strong><span>Profil</span></div><div><strong>2</strong><span>Curriculum</span></div></div><p>60 de minute · 4 variante · un răspuns corect<br>0,5 puncte / item · prag de promovare: 7</p></aside></section><section class="stats" aria-label="Repere"><div class="stat"><strong>20</strong><span>teste de antrenament</span></div><div class="stat"><strong>400</strong><span>itemi cu explicații</span></div><div class="stat"><strong>60 min</strong><span>pentru fiecare test</span></div><div class="stat"><strong>${complete} / 20</strong><span>teste finalizate aici</span></div></section><section><div class="section-head"><div><span class="eyebrow">ALEGE URMĂTORUL PAS</span><h2>Simulările tale</h2><p>Lucrează online sau listează testul și grila pentru rezolvare pe hârtie. Explicațiile apar după finalizarea online.</p></div><span class="badge">Online sau pe hârtie</span></div><div class="test-grid">${manifest.map((m,i)=>{const s=states[i];return `<article class="test-card"><div class="card-top"><span class="test-number">TESTUL ${String(m.id).padStart(2,'0')}</span><span class="badge ${s?.finished?'done':s?'pending':''}">${s?.finished?'Finalizat':s?'În lucru':'60 minute'}</span></div><h3>${esc(m.title)}</h3><p>5 Legea 198 · 5 ROFUIP · 4 Bush<br>2 Hattie · 2 Profil · 2 Curriculum</p><p class="card-models">${esc(m.models.slice(0,4).join(' · '))}…</p>${s?.finished?`<p>Ultima notă: <strong>${Number(s.score/2).toFixed(1).replace('.',',')}</strong> / 10</p>`:s?`<p>${answered(s)} / 20 răspunsuri salvate</p>`:''}<button class="button ${s?.finished?'secondary':'primary'}" data-action="start" data-id="${m.id}">${s?.finished?'Vezi rezultatul și explicațiile':s?'Reia testul':'Începe testul'} →</button>${paperLink(m.id)}<p class="paper-card-note">6 pagini de itemi · grila pe pagina 7</p></article>`;}).join('')}</div></section><aside class="notice"><p><strong>Cum exersezi:</strong> rezervă 60 de minute, citește atent cerința și marchează întrebările la care vrei să revii. Un reper util este media de 3 minute pe item.</p><p>Testele sunt materiale de antrenament construite din bibliografia de studiu. Nu reprezintă subiecte oficiale. Structura 5 + 5 + 4 + 2 + 2 + 2 și pragul de promovare 7 urmează <a href="https://edu.ro/press_rel_67_26_informare_probe_concurs_directori" target="_blank" rel="noopener">informarea Ministerului din 29.09.2026</a>. La legislație, fiecare explicație indică articolul, alineatul disponibil și fragmentul verificat. Legea este preluată din materialul consolidat de studiu din 15.09.2026, iar ROFUIP include actualizările din 2026. La lucrările teoretice indicăm capitolul, secțiunea sau pagina disponibilă în material</p><p>Progresul se păstrează în acest browser. Cronometrul continuă dacă părăsești pagina.</p></aside>`;
+  app.innerHTML=`<section class="hero"><div><span class="eyebrow">PROBA SCRISĂ · 20 OCTOMBRIE 2026</span><h1>Consolidează cunoștințele.<br><span>Pregătește reușita.</span></h1><p>${manifest.length} de simulări, cu management și legislație școlară, cu rezolvări explicate pas cu pas. Lucrezi în ritmul examenului, apoi înveți din fiecare răspuns.</p><button class="button yellow" data-action="start" data-id="${manifest[states.findIndex(s=>!s?.finished)]?.id||manifest[0].id}">Continuă pregătirea →</button></div><aside class="hero-side"><h2>Structura fiecărui test</h2><div class="structure"><div><strong>5</strong><span>Legea 198</span></div><div><strong>5</strong><span>ROFUIP</span></div><div><strong>4</strong><span>Bush</span></div><div><strong>2</strong><span>Hattie</span></div><div><strong>2</strong><span>Profil</span></div><div><strong>2</strong><span>Curriculum</span></div></div><p>60 de minute · 4 variante · un răspuns corect<br>0,5 puncte / item · prag de promovare: 7</p></aside></section><section class="stats" aria-label="Repere"><div class="stat"><strong>${manifest.length}</strong><span>teste de antrenament</span></div><div class="stat"><strong>${manifest.length*20}</strong><span>itemi cu explicații</span></div><div class="stat"><strong>60 min</strong><span>pentru fiecare test</span></div><div class="stat"><strong>${complete} / ${manifest.length}</strong><span>teste finalizate aici</span></div></section><section><div class="section-head"><div><span class="eyebrow">ALEGE URMĂTORUL PAS</span><h2>Simulările tale</h2><p>Lucrează online sau listează testul și grila pentru rezolvare pe hârtie. Explicațiile apar după finalizarea online.</p><p><a class="link-button" href="#test-21">Mergi la testele noi 21–40 →</a></p></div><span class="badge">Online sau pe hârtie</span></div><div class="test-grid">${manifest.map((m,i)=>{const s=states[i];return `<article class="test-card" id="test-${m.id}"><div class="card-top"><span class="test-number">TESTUL ${String(m.id).padStart(2,'0')}</span><span class="badge ${s?.finished?'done':s?'pending':''}">${s?.finished?'Finalizat':s?'În lucru':m.id>=21?'Nou · 60 minute':'60 minute'}</span></div><h3>${esc(m.title)}</h3><p>5 Legea 198 · 5 ROFUIP · 4 Bush<br>2 Hattie · 2 Profil · 2 Curriculum</p><p class="card-models">${esc(m.models.slice(0,4).join(' · '))}…</p>${s?.finished?`<p>Ultima notă: <strong>${Number(s.score/2).toFixed(1).replace('.',',')}</strong> / 10</p>`:s?`<p>${answered(s)} / 20 răspunsuri salvate</p>`:''}<button class="button ${s?.finished?'secondary':'primary'}" data-action="start" data-id="${m.id}">${s?.finished?'Vezi rezultatul și explicațiile':s?'Reia testul':'Începe testul'} →</button>${paperLink(m.id)}<p class="paper-card-note">6 pagini de itemi · grila pe pagina 7</p></article>`;}).join('')}</div></section><aside class="notice"><p><strong>Cum exersezi:</strong> rezervă 60 de minute, citește atent cerința și marchează întrebările la care vrei să revii. Un reper util este media de 3 minute pe item.</p><p>Testele sunt materiale de antrenament construite din bibliografia de studiu. Nu reprezintă subiecte oficiale. Structura 5 + 5 + 4 + 2 + 2 + 2 și pragul de promovare 7 urmează <a href="https://edu.ro/press_rel_67_26_informare_probe_concurs_directori" target="_blank" rel="noopener">informarea Ministerului din 29.09.2026</a>. La legislație, fiecare explicație indică articolul, alineatul disponibil și fragmentul verificat. Legea este preluată din materialul consolidat de studiu din 15.09.2026, iar ROFUIP include actualizările din 2026. La lucrările teoretice indicăm capitolul, secțiunea sau pagina disponibilă în material</p><p>Progresul se păstrează în acest browser. Cronometrul continuă dacă părăsești pagina.</p></aside>`;
   window.scrollTo(0,0);
 }
 async function start(id,restart=false){
+  unlockSound();audioLastSecond=-1;
   const m=manifest.find(m=>m.id===id);if(!m)return;
   app.innerHTML='<div class="loading" role="status">Se încarcă simularea…</div>';
   try{const r=await fetch(m.file,{cache:"no-store"});if(!r.ok)throw new Error('fetch');test=await r.json();}
@@ -40,7 +91,7 @@ async function start(id,restart=false){
   question();window.scrollTo(0,0);
 }
 function panel(){const n=answered(state);return `<aside class="side-panel"><h3>Grila răspunsurilor</h3><p><strong>${n} / 20</strong> completate</p><div class="progress" aria-label="${n} din 20 completate"><i style="width:${n*5}%"></i></div><nav class="grid-nav" aria-label="Navigare între întrebări">${test.questions.map((q,i)=>`<button class="q-nav ${state.answers[i]!==null?'answered':''} ${state.flags[i]?'flagged':''} ${i===current&&view==='question'?'current':''}" data-action="goto" data-index="${i}" aria-label="Itemul ${i+1}${state.answers[i]!==null?', completat':', fără răspuns'}${state.flags[i]?', de revizuit':''}" ${i===current&&view==='question'?'aria-current="step"':''}>${i+1}</button>`).join('')}</nav><div class="legend">Albastru: răspuns ales<br>Galben: marcat pentru revenire</div><button class="button yellow" data-action="review">Verific răspunsurile</button><p class="save-note">${storageAvailable?'Progres salvat în acest browser. Timpul continuă și la închiderea paginii.':'Salvarea locală nu este disponibilă. Păstrează această pagină deschisă.'}</p></aside>`;}
-function toolbar(){return `<div class="toolbar"><div><button class="link-button" data-action="home">← Toate testele</button><div><strong>Testul ${String(test.id).padStart(2,'0')} · ${esc(test.title)}</strong></div></div>${paperLink(test.id)}<div class="timer" id="timer" role="timer" aria-label="Timp rămas"><small>TIMP RĂMAS</small><strong id="timer-value">${clock(remaining())}</strong></div></div>`;}
+function toolbar(){return `<div class="toolbar"><div><button class="link-button" data-action="home">← Toate testele</button><div><strong>Testul ${String(test.id).padStart(2,'0')} · ${esc(test.title)}</strong></div></div>${paperLink(test.id)}${soundControl()}<div class="timer" id="timer" role="timer" aria-label="Timp rămas"><small>TIMP RĂMAS</small><strong id="timer-value">${clock(remaining())}</strong></div></div>`;}
 function question(){
   view='question';state.current=current;save();const q=test.questions[current];
   app.innerHTML=toolbar()+`<div class="session-grid"><section class="question-card" aria-label="Itemul ${current+1}"><div class="question-meta"><span class="badge">${LABELS[q.category]}</span><span class="count">Itemul ${current+1} din 20</span></div><h2 class="question-title">${esc(q.prompt)}</h2>${chart(q)}<p class="source-note">Reper bibliografic: ${esc(q.source)}</p><div class="options" role="group" aria-label="Variante de răspuns">${q.options.map((o,i)=>`<button class="option ${state.answers[current]===i?'selected':''}" data-action="answer" data-index="${i}" aria-pressed="${state.answers[current]===i}"><span class="letter">${LETTERS[i]}.</span><span>${esc(o)}</span></button>`).join('')}</div><div class="question-actions"><button class="link-button" data-action="flag">${state.flags[current]?'★ Marcat pentru revenire':'☆ Marchează pentru revenire'}</button>${state.answers[current]!==null?'<button class="link-button" data-action="clear">Șterge răspunsul</button>':''}<div class="nav-buttons"><button class="button secondary" data-action="previous" ${current===0?'disabled':''}>← Înapoi</button><button class="button primary" data-action="next">${current===19?'Verific răspunsurile':'Următorul →'}</button></div></div></section>${panel()}</div>`;
@@ -52,6 +103,7 @@ function review(){
   updateTimer();window.scrollTo(0,0);
 }
 function finish(auto=false){
+  silenceSound();
   if(!state||state.finished)return;
   state.finished=true;state.finishedAt=Math.min(Date.now(),state.deadline);state.expired=auto;state.score=score(test,state);save();
   if(dialog.open)dialog.close();filter='all';results();
@@ -66,12 +118,14 @@ function results(){
 function updateTimer(){
   if(!state||state.finished)return;
   const r=remaining();if(r===0){finish(true);return;}
+  updateTimerSound();
   const el=document.querySelector('#timer-value');if(el)el.textContent=clock(r);
   document.querySelector('#timer')?.classList.toggle('urgent',r<=300);
   if(r<=300&&!state.warned){state.warned=true;save();toast('Mai ai 5 minute. Verifică întrebările fără răspuns.');}
 }
 app.addEventListener('click',e=>{
   const b=e.target.closest('[data-action]');if(!b||b.disabled)return;const action=b.dataset.action;
+  if(action==='sound'){toggleSound();return;}
   if(action==='home'){home();return;}if(action==='start'){start(Number(b.dataset.id));return;}
   if(!state||!test)return;
   if(!state.finished&&remaining()===0){finish(true);return;}
